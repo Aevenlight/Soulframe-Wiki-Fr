@@ -69,6 +69,19 @@ Toutes les marques et noms mentionnés appartiennent à leurs propriétaires res
 
 ---
 
+## ❤️ Soutenir le projet
+
+Soulframe Wiki FR est un projet **communautaire, indépendant et non lucratif**.
+
+Si vous souhaitez soutenir son développement et son hébergement,  
+vous pouvez le faire via Patreon :
+
+👉 https://www.patreon.com/cw/SoulframeWikiFR
+
+Le soutien est entièrement facultatif et n’impacte pas l’accès au contenu du wiki.
+
+---
+
 ## 📬 Liens utiles
 
 - 🌐 Wiki : https://soulframewiki.fr/
