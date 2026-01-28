@@ -6,7 +6,7 @@
     "_repository": "https://github.com/Aevenlight/Soulframe-Wiki-Fr/Ressources/autolinks",
     "_license": "CC BY-NC 4.0",
     "_generated": "2026-01-28",
-    "_version": "0.6"
+    "_version": "0.7"
   },
 
   "ressources": {
@@ -91,6 +91,10 @@
     "Circade":"https://soulframewiki.fr/ennemis/circade",
     "Cerf Vadagar":"https://soulframewiki.fr/ennemis/cerf-vadagar",
     "Cerf Tourmenté":"https://soulframewiki.fr/ennemis/cerf-tourmente",
-    "Nimrod":"https://soulframewiki.fr/ennemis/nimrod"
+    "Nimrod":"https://soulframewiki.fr/ennemis/nimrod",
+    "Vella, la Vagabonde de la Sinécure":"https://soulframewiki.fr/ennemis/vella-la-vagabonde-de-la-sinecure",
+    "Bûcheron Hewyl":"https://soulframewiki.fr/ennemis/bucheron-hewyl",
+    "Séchnall le Veuf":"https://soulframewiki.fr/ennemis/sechnall-le-veuf",
+    "Traqueur de Gruul Sontaro":"https://soulframewiki.fr/ennemis/traqueur-de-gruul-sontaro"
   }
 }
