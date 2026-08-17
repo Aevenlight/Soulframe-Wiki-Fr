@@ -16,7 +16,7 @@ const ANCESTOR_IMAGES = {
   "Verminia": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/verminia.png",
   "Orlick": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/orlick.png",
   "Garren Rood": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/garren.png",
-  "Tuvulkane": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/tuvulkane.png",
+  "Tuvulkane": "https://soulframewiki.fr/_next/image?url=https%3A%2F%2Fassets.super.so%2F2eeb3c9d-609b-4254-88b2-95538e16304b%2Fimages%2F95dfbb4d-96b0-473b-8367-9ef04b5f32aa%2FTuvalkane.webp&w=1080&q=75",
   "Oracle des Vallons": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/oracle.png"
 };
 
