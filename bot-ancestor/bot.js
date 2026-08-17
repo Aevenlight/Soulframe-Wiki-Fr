@@ -10,14 +10,14 @@ const ANCESTORS = [
 ];
 
 const ANCESTOR_IMAGES = {
-  "Bromius": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/bromius.png",
-  "Orengall": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/orengall.png",
-  "Zenith": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/zenith.png",
-  "Verminia": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/verminia.png",
-  "Orlick": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/orlick.png",
-  "Garren Rood": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/garren.png",
-  "Tuvulkane": "https://soulframewiki.fr/_next/image?url=https%3A%2F%2Fassets.super.so%2F2eeb3c9d-609b-4254-88b2-95538e16304b%2Fimages%2F95dfbb4d-96b0-473b-8367-9ef04b5f32aa%2FTuvalkane.webp&w=1080&q=75",
-  "Oracle des Vallons": "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images/oracle.png"
+  "Bromius": "https://app.notion.com/image/attachment%3Acf9e4b3c-6a52-44cf-94e3-2364e8438676%3ABromius.png?id=2172556f-efd1-80f4-ac60-f636f139516a&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Orengall": "https://app.notion.com/image/attachment%3A8ee61fd1-771d-47eb-bfc0-be323004a5b4%3AOrengall.webp?id=2172556f-efd1-80dd-b4fc-e257a91ef8b6&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Zenith": "https://app.notion.com/image/attachment%3Aeb7536a8-a6ce-4a6b-a394-e17461ef51d2%3AZenith.png?id=2b92556f-efd1-809c-8564-d13b7bb453e6&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Verminia": "https://app.notion.com/image/attachment%3A0aca9a20-ea83-4480-8f21-c28d42b64b60%3AVerminiaJournal.png?id=2172556f-efd1-80b3-9e8f-c272bdb57395&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Orlick": "https://app.notion.com/image/attachment%3Ab226d2b3-fdd0-4df5-9fc0-d4402e08b3ed%3AOrlickJournal.png?id=2172556f-efd1-808f-8a14-d2acfa29624c&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Garren Rood": "https://app.notion.com/image/attachment%3A8e8f8b4e-ffae-43a9-b9b8-7ba116806406%3AGarren_Rood.webp?id=2172556f-efd1-80b9-bbbf-c5f29723c105&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Tuvulkane": "https://app.notion.com/image/attachment%3A6e0fd93c-fc45-4df5-ade9-854fe3d92be6%3ATuvalkaneJournal.png?id=2172556f-efd1-8080-a436-e93c1861cc7c&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+  "Oracle des Vallons": "https://app.notion.com/image/attachment%3A1fbb23ab-e2eb-45a9-b58c-ef6730d05e37%3ADaleSeer.png?id=3832556f-efd1-8047-83df-e0214a3f49fd&table=block&spaceId=0956db3a-13a6-4412-9978-a0f5c5312fe5&width=600&userId=4a9575a5-f93b-44d2-a961-7aba0ebaa5d2&cache=v2&imgBuildSrc=requestProxiedImageUrl"
 };
 
 function imageForAncestor(name) {
