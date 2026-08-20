@@ -1,10 +1,7 @@
 name: Ancêtre du jour
 on:
   schedule:
-    # 00:05 UTC -> 02:05 Paris en été | 01:05 en hiver
     - cron: "05 0 * * *"
-    # 01:05 UTC -> 03:05 Paris en été | 02:05 en hiver
-    - cron: "05 1 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -15,36 +12,22 @@ jobs:
   post:
     runs-on: ubuntu-latest
     steps:
-      - name: Vérifier l'heure de Paris
-        id: gate
-        run: |
-          H=$(TZ=Europe/Paris date +%H)
-          echo "Heure de Paris : $H"
-          if [ "$H" = "02" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Hors créneau, on saute."
-          fi
-
-      - uses: actions/checkout@v4
-        if: steps.gate.outputs.run == 'true'
-
-      - uses: actions/setup-node@v4
-        if: steps.gate.outputs.run == 'true'
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: "20"
-
       - run: node bot-ancestor/bot.js
-        if: steps.gate.outputs.run == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-
       - name: Sauvegarder l'id du message Discord
-        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add bot-ancestor/state.json
-          git diff --cached --quiet || git commit -m "chore: update ancestor message id"
-          git push
+          if git diff --cached --quiet; then
+            echo "::warning::state.json inchangé"
+          else
+            git commit -m "chore: update ancestor message id"
+            git pull --rebase --autostash
+            git push
+          fi
