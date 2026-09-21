@@ -2,11 +2,10 @@ const fs = require("fs");
 const path = require("path");
 
 const ANCESTORS = [
-  "Bromius", "Orengall", "Zenith", "Verminia", "Orlick", "Garren Rood", "Bromius",
-  "Zenith (ou Oracle des Vallons - créneau partagé, à confirmer)", "Tuvalkane", "Verminia",
-  "Orlick", "Bromius", "Orengall", "Zenith", "Tuvalkane", "Orlick", "Garren Rood", "Bromius",
-  "Orengall", "Tuvalkane", "Verminia", "Orlick", "Garren Rood", "Orengall", "Zenith",
-  "Tuvalkane", "Verminia", "Garren Rood"
+  "Bromius", "Orengall", "Zénith", "Verminia", "Orlick", "Garren", "Bromius",
+  "Zénith", "Tuvulkane", "Verminia", "Orlick", "Bromius", "Orengall", "Zénith",
+  "Tuvulkane", "Orlick", "Garren", "Bromius", "Orengall", "Tuvulkane", "Verminia",
+  "Orlick", "Garren", "Orengall", "Zénith", "Tuvulkane", "Verminia", "Garren"
 ];
 
 const IMG_BASE = "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images";
@@ -14,16 +13,14 @@ const IMG_BASE = "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr
 const ANCESTOR_IMAGES = {
   "Bromius": `${IMG_BASE}/bromius.png`,
   "Orengall": `${IMG_BASE}/orengall.png`,
-  "Zenith": `${IMG_BASE}/zenith.png`,
+  "Zénith": `${IMG_BASE}/zenith.png`,
   "Verminia": `${IMG_BASE}/verminia.png`,
   "Orlick": `${IMG_BASE}/orlick.png`,
-  "Garren Rood": `${IMG_BASE}/garren.png`,
-  "Tuvalkane": `${IMG_BASE}/tuvalkane.png`,
-  "Oracle des Vallons": `${IMG_BASE}/oracle.png`
+  "Garren": `${IMG_BASE}/garren.png`,
+  "Tuvulkane": `${IMG_BASE}/tuvalkane.png`
 };
 
 function imageForAncestor(name) {
-  if (name.startsWith("Zenith")) return ANCESTOR_IMAGES["Zenith"];
   return ANCESTOR_IMAGES[name];
 }
 
