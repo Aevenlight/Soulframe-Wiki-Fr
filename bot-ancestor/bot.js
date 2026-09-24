@@ -1,11 +1,16 @@
 const fs = require("fs");
 const path = require("path");
 
+// Cycle de 28 jours = 4 semaines types (lundi -> dimanche), mise à jour du 21/09/26
 const ANCESTORS = [
-  "Bromius", "Orengall", "Zénith", "Verminia", "Orlick", "Garren", "Bromius",
-  "Zénith", "Tuvulkane", "Verminia", "Orlick", "Bromius", "Orengall", "Zénith",
-  "Tuvulkane", "Orlick", "Garren", "Bromius", "Orengall", "Tuvulkane", "Verminia",
-  "Orlick", "Garren", "Orengall", "Zénith", "Tuvulkane", "Verminia", "Garren"
+  // Semaine 1
+  "Tuvulkane", "Verminia", "Garren", "Bromius", "Orengall", "Zénith", "Verminia",
+  // Semaine 2
+  "Orlick", "Garren", "Bromius", "Dave Dale", "Tuvulkane", "Verminia", "Orlick",
+  // Semaine 3
+  "Bromius", "Orengall", "Zénith", "Tuvulkane", "Orlick", "Garren", "Bromius",
+  // Semaine 4
+  "Orengall", "Tuvulkane", "Verminia", "Orlick", "Garren", "Orengall", "Zénith"
 ];
 
 const IMG_BASE = "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images";
@@ -24,7 +29,7 @@ function imageForAncestor(name) {
   return ANCESTOR_IMAGES[name];
 }
 
-const PIVOT = new Date("2026-08-31T00:00:00Z");
+const PIVOT = new Date("2026-08-17T00:00:00Z");
 const STATE_FILE = path.join(__dirname, "state.json");
 
 function parisDayStart(date) {
