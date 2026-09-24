@@ -6,7 +6,7 @@ const ANCESTORS = [
   // Semaine 1
   "Tuvalkane", "Verminia", "Garren", "Bromius", "Orengall", "Zénith", "Verminia",
   // Semaine 2
-  "Orlick", "Garren", "Bromius", "Dale Seer", "Tuvalkane", "Verminia", "Orlick",
+  "Orlick", "Garren", "Bromius", "Oracle des Vallons", "Tuvalkane", "Verminia", "Orlick",
   // Semaine 3
   "Bromius", "Orengall", "Zénith", "Tuvalkane", "Orlick", "Garren", "Bromius",
   // Semaine 4
