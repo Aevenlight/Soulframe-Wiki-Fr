@@ -4,13 +4,13 @@ const path = require("path");
 // Cycle de 28 jours = 4 semaines types (lundi -> dimanche), mise à jour du 21/09/26
 const ANCESTORS = [
   // Semaine 1
-  "Tuvulkane", "Verminia", "Garren", "Bromius", "Orengall", "Zénith", "Verminia",
+  "Tuvalkane", "Verminia", "Garren", "Bromius", "Orengall", "Zénith", "Verminia",
   // Semaine 2
-  "Orlick", "Garren", "Bromius", "Dave Dale", "Tuvulkane", "Verminia", "Orlick",
+  "Orlick", "Garren", "Bromius", "Dale Seer", "Tuvalkane", "Verminia", "Orlick",
   // Semaine 3
-  "Bromius", "Orengall", "Zénith", "Tuvulkane", "Orlick", "Garren", "Bromius",
+  "Bromius", "Orengall", "Zénith", "Tuvalkane", "Orlick", "Garren", "Bromius",
   // Semaine 4
-  "Orengall", "Tuvulkane", "Verminia", "Orlick", "Garren", "Orengall", "Zénith"
+  "Orengall", "Tuvalkane", "Verminia", "Orlick", "Garren", "Orengall", "Zénith"
 ];
 
 const IMG_BASE = "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images";
@@ -22,7 +22,7 @@ const ANCESTOR_IMAGES = {
   "Verminia": `${IMG_BASE}/verminia.png`,
   "Orlick": `${IMG_BASE}/orlick.png`,
   "Garren": `${IMG_BASE}/garren.png`,
-  "Tuvulkane": `${IMG_BASE}/tuvalkane.png`
+  "Tuvalkane": `${IMG_BASE}/tuvalkane.png`
 };
 
 function imageForAncestor(name) {
