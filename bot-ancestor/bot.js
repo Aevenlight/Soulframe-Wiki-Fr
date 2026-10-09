@@ -1,16 +1,18 @@
 const fs = require("fs");
 const path = require("path");
 
-// Cycle de 28 jours = 4 semaines types (lundi -> dimanche), mise à jour du 21/09/26
-const ANCESTORS = [
-  // Semaine 1
-  "Tuvalkane", "Verminia", "Garren", "Bromius", "Orengall", "Zénith", "Verminia",
-  // Semaine 2
-  "Orlick", "Garren", "Bromius", "Oracle des Vallons", "Tuvalkane", "Verminia", "Orlick",
-  // Semaine 3
-  "Bromius", "Orengall", "Zénith", "Tuvalkane", "Orlick", "Garren", "Bromius",
-  // Semaine 4
-  "Orengall", "Tuvalkane", "Verminia", "Orlick", "Garren", "Orengall", "Zénith"
+const CYCLE_HOURS = 134.59;
+const ORIGIN = new Date("2026-10-01T00:00:00Z");
+
+const ROTATION = [
+  ["Verminia", 0.22],
+  ["Orlick", 19.03],
+  ["Garren", 37.85],
+  ["Bromius", 56.2],
+  ["Orengall", 75.02],
+  ["Oracle des Vallons", 93.62],
+  ["Zénith", 101.13],
+  ["Tuvalkane", 115.72]
 ];
 
 const IMG_BASE = "https://raw.githubusercontent.com/Aevenlight/Soulframe-Wiki-Fr/main/bot-ancestor/images";
@@ -29,7 +31,17 @@ function imageForAncestor(name) {
   return ANCESTOR_IMAGES[name];
 }
 
-const PIVOT = new Date("2026-08-17T00:00:00Z");
+const WIKI_BASE = "https://soulframewiki.fr/personnages";
+
+const ANCESTOR_WIKI = {
+  "Verminia": `${WIKI_BASE}/verminia`,
+  "Orlick": `${WIKI_BASE}/orlick-the-bicameral`,
+  "Tuvalkane": `${WIKI_BASE}/steelsinger-tulvakane`,
+  "Bromius": `${WIKI_BASE}/bromius`,
+  "Garren": `${WIKI_BASE}/garren-rood`,
+  "Orengall": `${WIKI_BASE}/orengall`
+};
+
 const STATE_FILE = path.join(__dirname, "state.json");
 
 function parisDayStart(date) {
@@ -46,8 +58,13 @@ function parisDateFr(date) {
 }
 
 function ancestorForDayUTC(dayUTC) {
-  const diffDays = Math.round((dayUTC - PIVOT) / 86400000);
-  return ANCESTORS[((diffDays % 28) + 28) % 28];
+  const hours = (dayUTC - ORIGIN) / 3600000;
+  const phase = ((hours % CYCLE_HOURS) + CYCLE_HOURS) % CYCLE_HOURS;
+  let name = ROTATION[ROTATION.length - 1][0];
+  for (const [ancestor, startHour] of ROTATION) {
+    if (phase >= startHour) name = ancestor;
+  }
+  return name;
 }
 
 function webhookUrls(raw) {
@@ -60,12 +77,60 @@ function webhookUrls(raw) {
     return u;
   };
 
+  
   const createUrl = withParams(base);
   createUrl.searchParams.set("wait", "true");
+  createUrl.searchParams.set("with_components", "true");
+
+  const editUrl = (id) => {
+    const u = withParams(`${base}/messages/${id}`);
+    u.searchParams.set("with_components", "true");
+    return u.toString();
+  };
+
+  return { createUrl: createUrl.toString(), editUrl };
+}
+
+const COMPONENTS_V2_FLAG = 1 << 15;
+const MESSAGE_FORMAT = "components-v2";
+
+function buildPayload(today, next, dateFr) {
+  const container = [];
+
+  const todayImage = imageForAncestor(today);
+  if (todayImage) {
+    container.push({ type: 12, items: [{ media: { url: todayImage } }] });
+  }
+
+  const buttons = [];
+  const wikiUrl = ANCESTOR_WIKI[today];
+  if (wikiUrl) {
+    buttons.push({ type: 2, style: 5, label: "Voir les Grâces", url: wikiUrl });
+  }
+  buttons.push({
+    type: 2,
+    style: 5,
+    label: "Voir les emplacements",
+    url: "https://soulmap.avakot.org/P16?loc=Blessed+Meetings"
+  });
+
+  container.push(
+    {
+      type: 10,
+      content:
+        "## <:P_Quest:1397970206902714580> Ancêtre du jour\n\n" +
+        `L'ancêtre disponible aujourd'hui est : **${today}**`
+    },
+    { type: 14, divider: true, spacing: 2 },
+    { type: 10, content: `-# Demain, attendez-vous à voir : **${next}**` },
+    { type: 14, divider: true, spacing: 2 },
+    { type: 10, content: `La Rose Silencieuse • ${dateFr}` },
+    { type: 1, components: buttons }
+  );
 
   return {
-    createUrl: createUrl.toString(),
-    editUrl: (id) => withParams(`${base}/messages/${id}`).toString()
+    flags: COMPONENTS_V2_FLAG,
+    components: [{ type: 17, accent_color: 16228864, components: container }]
   };
 }
 
@@ -104,26 +169,11 @@ async function main() {
     process.exit(1);
   }
 
-  const embed = {
-    title: "<:P_Quest:1397970206902714580> Ancêtre du Jour",
-    url: "https://discord.com/invite/rosesilencieuse",
-    description:
-      `L'ancêtre disponible aujourd'hui est : **${today}**\n` +
-      `-# Demain, attendez-vous à voir : **${next}**`,
-    color: 0xdd9f38,
-    footer: {
-      text: `La Rose Silencieuse • ${dateFr}`,
-      icon_url: "https://assets.super.so/2eeb3c9d-609b-4254-88b2-95538e16304b/uploads/favicon/08a70f7b-6515-4d74-b8b2-a27abd94276f.png"
-    }
-  };
-
-  const todayImage = imageForAncestor(today);
-  if (todayImage) embed.thumbnail = { url: todayImage };
-
-  const payload = { embeds: [embed] };
+  const payload = buildPayload(today, next, dateFr);
   const state = readState();
 
-  if (state.messageId) {
+  // Un ancien message en embed ne peut pas être converti en Components V2 : on en recrée un.
+  if (state.messageId && state.format === MESSAGE_FORMAT) {
     const res = await fetch(urls.editUrl(state.messageId), {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
@@ -159,7 +209,7 @@ async function main() {
     process.exit(1);
   }
 
-  writeState({ messageId: created.id, updatedAt: now.toISOString(), lastAncestor: today });
+  writeState({ messageId: created.id, format: MESSAGE_FORMAT, updatedAt: now.toISOString(), lastAncestor: today });
   console.log(`Nouveau message créé (${dateFr}) : ${today} -> demain : ${next}`);
 }
 
