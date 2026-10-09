@@ -124,7 +124,7 @@ function buildPayload(today, next, dateFr) {
     { type: 14, divider: true, spacing: 2 },
     { type: 10, content: `-# Demain, attendez-vous à voir : **${next}**` },
     { type: 14, divider: true, spacing: 2 },
-    { type: 10, content: `La Rose Silencieuse • ${dateFr}` },
+    { type: 10, content: `<a:A_Rose:1471803039416451112> La Rose Silencieuse • ${dateFr}` },
     { type: 1, components: buttons }
   );
 
