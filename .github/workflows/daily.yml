@@ -18,16 +18,16 @@ jobs:
           node-version: "20"
       - run: node bot-ancestor/bot.js
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      - name: Sauvegarder l'id du message Discord
+          PATREON_WEBHOOKS: ${{ secrets.PATREON_WEBHOOKS }}
+      - name: Sauvegarder l'id des messages Discord
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bot-ancestor/state.json
+          git add bot-ancestor/state_patreon.json
           if git diff --cached --quiet; then
-            echo "::warning::state.json inchangé"
+            echo "::warning::state_patreon.json inchangé"
           else
-            git commit -m "chore: update ancestor message id"
+            git commit -m "chore: update ancestor message ids"
             git pull --rebase --autostash
             git push
           fi
