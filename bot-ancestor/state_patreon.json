@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-09T11:40:59.627Z",
-  "lastAncestor": "Bromius",
+  "updatedAt": "2026-10-10T05:41:49.841Z",
+  "lastAncestor": "Orengall",
   "servers": {
     "98960da0": {
       "messageId": "1558056451916824680",
       "format": "components-v2",
-      "updatedAt": "2026-10-09T11:40:59.627Z"
+      "updatedAt": "2026-10-10T05:41:49.841Z"
     },
     "730a5a8c": {
       "messageId": "1558056477539835954",
       "format": "components-v2",
-      "updatedAt": "2026-10-09T11:40:59.627Z"
+      "updatedAt": "2026-10-10T05:41:49.841Z"
     }
   }
 }
