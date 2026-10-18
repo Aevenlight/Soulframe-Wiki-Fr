@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-17T04:14:44.461Z",
-  "lastAncestor": "Zénith",
+  "updatedAt": "2026-10-18T04:20:11.162Z",
+  "lastAncestor": "Verminia",
   "servers": {
     "98960da0": {
       "messageId": "1558056451916824680",
       "format": "components-v2",
-      "updatedAt": "2026-10-17T04:14:44.461Z"
+      "updatedAt": "2026-10-18T04:20:11.162Z"
     },
     "730a5a8c": {
       "messageId": "1558056477539835954",
       "format": "components-v2",
-      "updatedAt": "2026-10-17T04:14:44.461Z"
+      "updatedAt": "2026-10-18T04:20:11.162Z"
     }
   }
 }
