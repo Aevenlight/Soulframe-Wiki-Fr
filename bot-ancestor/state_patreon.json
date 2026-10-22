@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21T04:33:45.519Z",
-  "lastAncestor": "Orengall",
+  "updatedAt": "2026-10-22T04:32:28.848Z",
+  "lastAncestor": "Oracle des Vallons",
   "servers": {
     "98960da0": {
       "messageId": "1558056451916824680",
       "format": "components-v2",
-      "updatedAt": "2026-10-21T04:33:45.519Z"
+      "updatedAt": "2026-10-22T04:32:28.848Z"
     },
     "730a5a8c": {
       "messageId": "1558056477539835954",
       "format": "components-v2",
-      "updatedAt": "2026-10-21T04:33:45.519Z"
+      "updatedAt": "2026-10-22T04:32:28.848Z"
     }
   }
 }
