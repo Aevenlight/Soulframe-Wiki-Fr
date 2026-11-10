@@ -1,4 +1,11 @@
 {
   "link": "https://www.twitch.tv/playsoulframe",
-  "streams": []
+  "streams": [
+    {
+      "number": 19,
+      "title": "Soulframe Devstream #19",
+      "start": "2026-11-27T20:30:00Z",
+      "durationHours": 1
+    }
+  ]
 }
