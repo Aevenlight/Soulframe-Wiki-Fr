@@ -1,0 +1,3687 @@
+{
+  "_meta": {
+    "_name": "Soulframe Wiki FR – Autolinks",
+    "_description": "Liste de mots-clés et liens automatiques pour le wiki Soulframe FR",
+    "_author": "SoulframeWiki.fr",
+    "_repository": "https://github.com/Aevenlight/Soulframe-Wiki-Fr/Ressources/autolinks",
+    "_license": "CC BY-NC 4.0",
+    "updated": "2026-11-20",
+    "version": "1.0"
+  },
+  "ressources": {
+    "acier_de_recuperation": {
+      "label": "Acier de Récupération",
+      "en": "Scrap Steel",
+      "url": "https://soulframewiki.fr/ressources/scrap-steel",
+      "aliases": []
+    },
+    "bois_noueux": {
+      "label": "Bois Noueux",
+      "en": "Knotwood",
+      "url": "https://soulframewiki.fr/ressources/knotwood",
+      "aliases": []
+    },
+    "bourse_de_sapphelines": {
+      "label": "Bourse de Sapphelines",
+      "en": "Purseworth of Sappheline",
+      "url": "https://soulframewiki.fr/ressources/sappheline",
+      "aliases": []
+    },
+    "bourse_remplie_de_moranites": {
+      "label": "Bourse Remplie de Moranites",
+      "en": "Purseworth of Moranite",
+      "url": "https://soulframewiki.fr/ressources/moranite",
+      "aliases": []
+    },
+    "bourse_remplie_de_perles_de_riviere": {
+      "label": "Bourse Remplie de Perles de Rivière",
+      "en": "Purseworth of River Pearls",
+      "url": "https://soulframewiki.fr/ressources/river-pearl",
+      "aliases": []
+    },
+    "caisse_moranites": {
+      "label": "Caisse Moranites",
+      "en": "Cratesweight of Moranite",
+      "url": "https://soulframewiki.fr/ressources/moranite",
+      "aliases": []
+    },
+    "caisse_de_perles_de_riviere": {
+      "label": "Caisse de Perles de Rivière",
+      "en": "Cratesweight of River Pearls",
+      "url": "https://soulframewiki.fr/ressources/river-pearl",
+      "aliases": []
+    },
+    "caisse_de_sapphelines": {
+      "label": "Caisse de Sapphelines",
+      "en": "Cratesweight of Sappheline",
+      "url": "https://soulframewiki.fr/ressources/sappheline",
+      "aliases": []
+    },
+    "caisses_de_pierres_des_accords_murmurantes": {
+      "label": "Caisses de Pierres des Accords Murmurantes",
+      "en": "A cratesweight of Whispering Chordstone",
+      "url": "https://soulframewiki.fr/ressources/caisse-de-pierre-des-accords-murmurantes",
+      "aliases": []
+    },
+    "caisses_de_pierres_des_accords_silencieuses": {
+      "label": "Caisses de Pierres des Accords Silencieuses",
+      "en": "A cratesweight of Hushed Chordstone",
+      "url": "https://soulframewiki.fr/ressources/caisse-de-pierre-des-accords-silencieuses",
+      "aliases": []
+    },
+    "capactie_d_armes": {
+      "label": "Capactié d’Armes",
+      "en": "",
+      "url": "https://soulframewiki.fr/ressources/capacite-armes",
+      "aliases": [
+        "Capacité d’Armes"
+      ]
+    },
+    "capacite_d_inventaire": {
+      "label": "Capacité d’inventaire",
+      "en": "Storage Capacity",
+      "url": "https://soulframewiki.fr/ressources/capacite-inventaire",
+      "aliases": []
+    },
+    "capacite_de_pactes": {
+      "label": "Capacité de Pactes",
+      "en": "",
+      "url": "https://soulframewiki.fr/ressources/capacite-de-pactes",
+      "aliases": []
+    },
+    "capacite_de_panoplie": {
+      "label": "Capacité de Panoplie",
+      "en": "Loadout Capacity",
+      "url": "https://soulframewiki.fr/ressources/capacite-de-panoplie",
+      "aliases": []
+    },
+    "carmentheme": {
+      "label": "Carmenthème",
+      "en": "Crimsanthemum",
+      "url": "https://soulframewiki.fr/ressources/carmentheme",
+      "aliases": []
+    },
+    "cle": {
+      "label": "Clé",
+      "en": "Key",
+      "url": "https://soulframewiki.fr/ressources/cle",
+      "aliases": []
+    },
+    "cle_de_la_cage": {
+      "label": "Clé de la Cage",
+      "en": "Cage Key",
+      "url": "https://soulframewiki.fr/ressources/cle-de-cage",
+      "aliases": []
+    },
+    "cle_de_crypte": {
+      "label": "Clé de Crypte",
+      "en": "Crypt Key",
+      "url": "https://soulframewiki.fr/ressources/cle-de-crypte",
+      "aliases": []
+    },
+    "cle_de_kairnbroch": {
+      "label": "Clé de Kairnbroch",
+      "en": "Kearnhold Key",
+      "url": "https://soulframewiki.fr/ressources/cle-de-kearnhold",
+      "aliases": []
+    },
+    "combustible_bisculcam": {
+      "label": "Combustible Bisculcam",
+      "en": "Ode Cannonball",
+      "url": "https://soulframewiki.fr/ressources/combustible-bisculcam",
+      "aliases": []
+    },
+    "encre_de_belladone": {
+      "label": "Encre de Belladone",
+      "en": "Nightshade Ink",
+      "url": "https://soulframewiki.fr/ressources/encre-de-belladone",
+      "aliases": []
+    },
+    "fer_de_recuperation": {
+      "label": "Fer de Récupération",
+      "en": "Scrap Iron",
+      "url": "https://soulframewiki.fr/ressources/scrap-iron",
+      "aliases": []
+    },
+    "flacon_du_crepuscule": {
+      "label": "Flacon du Crépuscule",
+      "en": "Flask of Gloaming",
+      "url": "https://soulframewiki.fr/ressources/flask-of-gloaming",
+      "aliases": []
+    },
+    "fleur_des_soucis": {
+      "label": "Fleur des Soucis",
+      "en": "Marifold",
+      "url": "https://soulframewiki.fr/ressources/fleur-des-soucis",
+      "aliases": []
+    },
+    "fleur_maudite_des_soucis": {
+      "label": "Fleur Maudite des Soucis",
+      "en": "Cursed Marifold",
+      "url": "https://soulframewiki.fr/ressources/cursed-marifold",
+      "aliases": []
+    },
+    "fronde_pourrie": {
+      "label": "Fronde Pourrie",
+      "en": "Rotted Frond",
+      "url": "https://soulframewiki.fr/ressources/rotted-frond",
+      "aliases": []
+    },
+    "fronde_vertepousse": {
+      "label": "Fronde Vertepousse",
+      "en": "Sproutfolk Frond",
+      "url": "https://soulframewiki.fr/ressources/sproutfolk-frond",
+      "aliases": []
+    },
+    "gonflements_des_marees": {
+      "label": "Gonflements des Marées",
+      "en": "Swell O' Tides",
+      "url": "https://soulframewiki.fr/ressources/gonflements-des-marees",
+      "aliases": []
+    },
+    "graines_de_courge_d_hiver": {
+      "label": "Graines de Courge d’Hiver",
+      "en": "Wintersquash Seed",
+      "url": "https://soulframewiki.fr/ressources/wintersquash-seed",
+      "aliases": []
+    },
+    "graphite_de_l_ode": {
+      "label": "Graphite de l’Ode",
+      "en": "Ode Graphite",
+      "url": "https://soulframewiki.fr/ressources/ode-graphite",
+      "aliases": []
+    },
+    "ichor": {
+      "label": "Ichor",
+      "en": "Ichor",
+      "url": "https://soulframewiki.fr/ressources/ichor",
+      "aliases": []
+    },
+    "ichor_petrifie": {
+      "label": "Ichor Pétrifié",
+      "en": "Petrified Ichor",
+      "url": "https://soulframewiki.fr/ressources/petrified-ichor",
+      "aliases": []
+    },
+    "laiton_de_recuperation": {
+      "label": "Laiton de Récupération",
+      "en": "Scrap Brass",
+      "url": "https://soulframewiki.fr/ressources/scrap-brass",
+      "aliases": []
+    },
+    "lampyrite_ambree": {
+      "label": "Lampyrite Ambrée",
+      "en": "Amber Lampyrite",
+      "url": "https://soulframewiki.fr/ressources/lampyrite-ambree",
+      "aliases": []
+    },
+    "lampyrite_faerique": {
+      "label": "Lampyrite Faerique",
+      "en": "Faer Lampyrite",
+      "url": "https://soulframewiki.fr/ressources/lampyrite-faerique",
+      "aliases": []
+    },
+    "lampyrite_lumineuse": {
+      "label": "Lampyrite Lumineuse",
+      "en": "Glow Lampyrite",
+      "url": "https://soulframewiki.fr/ressources/lampyrite-lumineuse",
+      "aliases": []
+    },
+    "larklette": {
+      "label": "Larklette",
+      "en": "Larklette",
+      "url": "https://soulframewiki.fr/ressources/larklette",
+      "aliases": []
+    },
+    "levier_de_verrouillage_de_kairnbroch": {
+      "label": "Levier de Verrouillage de Kairnbroch",
+      "en": "Kearnhold  Lock-Lever",
+      "url": "https://soulframewiki.fr/ressources/levier-de-verouillage-de-kairnbroch",
+      "aliases": []
+    },
+    "lingot_de_fer": {
+      "label": "Lingot de Fer",
+      "en": "Iron Ingot",
+      "url": "https://soulframewiki.fr/ressources/lingot-de-fer",
+      "aliases": []
+    },
+    "lingot_de_laiton": {
+      "label": "Lingot de Laiton",
+      "en": "Brass Ingot",
+      "url": "https://soulframewiki.fr/ressources/lingot-de-laiton",
+      "aliases": []
+    },
+    "moranite": {
+      "label": "Moranite",
+      "en": "Moranite",
+      "url": "https://soulframewiki.fr/ressources/moranite",
+      "aliases": []
+    },
+    "moulinet_du_doyen": {
+      "label": "Moulinet du Doyen",
+      "en": "Doyen’s Spool",
+      "url": "https://soulframewiki.fr/ressources/moulinet-du-doyen",
+      "aliases": []
+    },
+    "onyx_corrompu": {
+      "label": "Onyx Corrompu",
+      "en": "Corrupt Onyx",
+      "url": "https://soulframewiki.fr/ressources/corrupt-onyx",
+      "aliases": []
+    },
+    "perle_de_riviere": {
+      "label": "Perle de Rivière",
+      "en": "River Pearl",
+      "url": "https://soulframewiki.fr/ressources/river-pearl",
+      "aliases": []
+    },
+    "pierre_de_tonnerre": {
+      "label": "Pierre de Tonnerre",
+      "en": "Thunderstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-de-tonnerre-1",
+      "aliases": []
+    },
+    "pierre_des_accords_cadencee": {
+      "label": "Pierre des Accords Cadencée",
+      "en": "Lilting Chordstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-des-accords-cadencee",
+      "aliases": []
+    },
+    "pierre_des_accords_chaotique": {
+      "label": "Pierre des Accords Chaotique",
+      "en": "Chaos Chordstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-des-accords-chaotique",
+      "aliases": []
+    },
+    "pierre_des_accords_murmurante": {
+      "label": "Pierre des Accords Murmurante",
+      "en": "Whispering Chordstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-des-accords-murmurante",
+      "aliases": []
+    },
+    "pierre_des_accords_melodique": {
+      "label": "Pierre des Accords Mélodique",
+      "en": "Melodious Chordstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-des-accords-melodique",
+      "aliases": []
+    },
+    "pierre_des_accords_rhapsodique": {
+      "label": "Pierre des Accords Rhapsodique",
+      "en": "Rhapsodic Chordstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-des-accords-rhapsodique",
+      "aliases": []
+    },
+    "pierre_des_accords_silencieuse": {
+      "label": "Pierre des Accords Silencieuse",
+      "en": "Hushed Chordstone",
+      "url": "https://soulframewiki.fr/ressources/pierre-des-accords-silencieuse",
+      "aliases": []
+    },
+    "piece_de_cuir": {
+      "label": "Pièce de Cuir",
+      "en": "Patch Leather",
+      "url": "https://soulframewiki.fr/ressources/patch-leather",
+      "aliases": []
+    },
+    "plume_de_philosophe": {
+      "label": "Plume de Philosophe",
+      "en": "Pensive’s Quill",
+      "url": "https://soulframewiki.fr/ressources/pensives-quill",
+      "aliases": []
+    },
+    "poignee_de_moranites": {
+      "label": "Poignée de Moranites",
+      "en": "Pocketful of Moranite",
+      "url": "https://soulframewiki.fr/ressources/moranite",
+      "aliases": []
+    },
+    "poignee_de_perles_de_riviere": {
+      "label": "Poignée de Perles de Rivière",
+      "en": "Pocketful of River Pearls",
+      "url": "https://soulframewiki.fr/ressources/river-pearl",
+      "aliases": []
+    },
+    "poignee_de_sapphelines": {
+      "label": "Poignée de Sapphelines",
+      "en": "Pocketful of Sappheline",
+      "url": "https://soulframewiki.fr/ressources/sappheline",
+      "aliases": []
+    },
+    "poisson_frais_tresse": {
+      "label": "Poisson Frais Tressé",
+      "en": "Plaited Freshfish",
+      "url": "https://soulframewiki.fr/ressources/poisson-frais-tresse",
+      "aliases": []
+    },
+    "quartz_gossamer": {
+      "label": "Quartz Gossamer",
+      "en": "Gossamer Quartz",
+      "url": "https://soulframewiki.fr/ressources/gossamer-quartz",
+      "aliases": []
+    },
+    "robinet_a_seve": {
+      "label": "Robinet à Sève",
+      "en": "Sap Tap",
+      "url": "https://soulframewiki.fr/ressources/sap-tap",
+      "aliases": []
+    },
+    "sac_de_bile": {
+      "label": "Sac de bile",
+      "en": "Spider’s Thread",
+      "url": "https://soulframewiki.fr/ressources/spiders-thread",
+      "aliases": []
+    },
+    "sappheline": {
+      "label": "Sappheline",
+      "en": "Sappheline",
+      "url": "https://soulframewiki.fr/ressources/sappheline",
+      "aliases": []
+    },
+    "saulanche": {
+      "label": "Saulanche",
+      "en": "Will-o-frond",
+      "url": "https://soulframewiki.fr/ressources/will-o-frond",
+      "aliases": []
+    },
+    "scintillement_sacre": {
+      "label": "Scintillement Sacré",
+      "en": "Sacred Shimmer",
+      "url": "https://soulframewiki.fr/ressources/sacred-shimmer",
+      "aliases": []
+    },
+    "seau_de_restes": {
+      "label": "Seau de Restes",
+      "en": "Clappie Pail",
+      "url": "https://soulframewiki.fr/ressources/seau-de-restes",
+      "aliases": []
+    },
+    "silistyte": {
+      "label": "Silistyte",
+      "en": "Silistyt",
+      "url": "https://soulframewiki.fr/ressources/silistyt",
+      "aliases": []
+    },
+    "synsylke_de_l_ode": {
+      "label": "Synsylke de l’Ode",
+      "en": "Ode'n Synsylk",
+      "url": "https://soulframewiki.fr/ressources/oden-synsylk",
+      "aliases": []
+    },
+    "seve_de_bois_de_wevette": {
+      "label": "Sève de Bois de Wevette",
+      "en": "Wevetwood Sap",
+      "url": "https://soulframewiki.fr/ressources/wevetwood-sap",
+      "aliases": []
+    },
+    "tissu_dendrite": {
+      "label": "Tissu Dendrite",
+      "en": "Dendrit Weave",
+      "url": "https://soulframewiki.fr/ressources/dendrit-weave",
+      "aliases": []
+    },
+    "voile_du_regent": {
+      "label": "Voile du Régent",
+      "en": "Maiden’s Veil",
+      "url": "https://soulframewiki.fr/ressources/voile-du-regent",
+      "aliases": []
+    },
+    "whisprig": {
+      "label": "Whisprig",
+      "en": "Whisprig",
+      "url": "https://soulframewiki.fr/ressources/whisprig",
+      "aliases": []
+    },
+    "oeil_de_tisserand": {
+      "label": "Oeil de Tisserand",
+      "en": "Eye of Weaver",
+      "url": "https://soulframewiki.fr/ressources/eye-of-weaver",
+      "aliases": []
+    },
+    "cle_de_la_tour_de_jotar": {
+      "label": "Clé de la Tour de Jotar",
+      "en": "Turret Jotar Key",
+      "url": "https://soulframewiki.fr/ressources/cle-de-la-tour-de-jortar",
+      "aliases": []
+    },
+    "cle_de_mirifuir": {
+      "label": "Clé de Mirifuir",
+      "en": "Mirifuir Key",
+      "url": "https://soulframewiki.fr/ressources/cle-de-mirifuir",
+      "aliases": []
+    },
+    "grappin_de_synsylke": {
+      "label": "Grappin de Synsylke",
+      "en": "Synsylk Grappler",
+      "url": "https://soulframewiki.fr/ressources/grappin-de-synsylke",
+      "aliases": []
+    }
+  },
+  "monnaies": {
+    "arcs": {
+      "label": "Arcs",
+      "en": "Arcs",
+      "url": "https://soulframewiki.fr/ressources/arcs",
+      "aliases": []
+    },
+    "bulbe_de_lumiere": {
+      "label": "Bulbe de Lumière",
+      "en": "Baskbulb",
+      "url": "https://soulframewiki.fr/ressources/bulbe-de-lumiere",
+      "aliases": []
+    },
+    "dracs": {
+      "label": "Dracs",
+      "en": "Dracs",
+      "url": "https://soulframewiki.fr/ressources/dracs",
+      "aliases": []
+    },
+    "fil_d_acier_lunaire": {
+      "label": "Fil d’Acier Lunaire",
+      "en": "Moonsteel Thread",
+      "url": "https://soulframewiki.fr/ressources/moonsteel-thread",
+      "aliases": []
+    },
+    "harmonie": {
+      "label": "Harmonie",
+      "en": "Harmony",
+      "url": "https://soulframewiki.fr/ressources/harmony",
+      "aliases": []
+    },
+    "sineculum": {
+      "label": "Sineculum",
+      "en": "Sineculum",
+      "url": "https://soulframewiki.fr/ressources/sineculum",
+      "aliases": []
+    },
+    "stratageme_des_pecheurs": {
+      "label": "Stratagème des Pêcheurs",
+      "en": "Sinners' Strategem",
+      "url": "https://soulframewiki.fr/ressources/documents-de-ode",
+      "aliases": []
+    },
+    "vertu_lith": {
+      "label": "Vertu Lith",
+      "en": "",
+      "url": "https://soulframewiki.fr/ressources/vertu-lith",
+      "aliases": []
+    }
+  },
+  "faune": {
+    "canard": {
+      "label": "Canard",
+      "en": "Ducks",
+      "url": "https://soulframewiki.fr/faune/canards",
+      "aliases": []
+    },
+    "castor": {
+      "label": "Castor",
+      "en": "Beavers",
+      "url": "https://soulframewiki.fr/faune/castors",
+      "aliases": []
+    },
+    "ecureuil": {
+      "label": "Écureuil",
+      "en": "Squirrels",
+      "url": "https://soulframewiki.fr/faune/ecureuils",
+      "aliases": []
+    },
+    "faon": {
+      "label": "Faon",
+      "en": "Fawns",
+      "url": "https://soulframewiki.fr/faune/faons",
+      "aliases": []
+    },
+    "lapin": {
+      "label": "Lapin",
+      "en": "Rabbits",
+      "url": "https://soulframewiki.fr/faune/lapins",
+      "aliases": []
+    },
+    "rat": {
+      "label": "Rat",
+      "en": "Rats",
+      "url": "https://soulframewiki.fr/faune/rats",
+      "aliases": []
+    },
+    "trachinidae_mouchete": {
+      "label": "Trachinidae Moucheté",
+      "en": "Speckled Whervpod",
+      "url": "https://soulframewiki.fr/faune/trachinidae-mouchet",
+      "aliases": []
+    },
+    "squalius": {
+      "label": "Squalius",
+      "en": "Schwelgulf",
+      "url": "https://soulframewiki.fr/faune/squalius",
+      "aliases": []
+    },
+    "logami_a_barbe": {
+      "label": "Logami à Barbe",
+      "en": "Barbfinned Logami",
+      "url": "https://soulframewiki.fr/faune/logami-barbe",
+      "aliases": []
+    },
+    "druimet_vorace": {
+      "label": "Druimet Vorace",
+      "en": "Bruimet Snapper",
+      "url": "",
+      "aliases": []
+    },
+    "terreur_des_abysses": {
+      "label": "Terreur des Abysses",
+      "en": "Sunken Terror",
+      "url": "https://soulframewiki.fr/faune/terreur-des-abysses",
+      "aliases": []
+    },
+    "taurche": {
+      "label": "Taurche",
+      "en": "Taurche",
+      "url": "https://soulframewiki.fr/faune/taurche",
+      "aliases": []
+    },
+    "thryssocypris_a_couronne": {
+      "label": "Thryssocypris à Couronne",
+      "en": "Crowned Drissock",
+      "url": "https://soulframewiki.fr/faune/thryssocypris-couronne",
+      "aliases": []
+    },
+    "curfet_plaque": {
+      "label": "Curfet Plaqué",
+      "en": "Plated Curfret",
+      "url": "https://soulframewiki.fr/faune/curfet-plaque",
+      "aliases": []
+    },
+    "cycloteridae_a_bulles": {
+      "label": "Cycloteridae à Bulles",
+      "en": "Boilhead Wumper",
+      "url": "https://soulframewiki.fr/faune/cycloteridae-bulles",
+      "aliases": []
+    },
+    "lumenelli": {
+      "label": "Lumenelli",
+      "en": "Lumenelli",
+      "url": "https://soulframewiki.fr/faune/lumenelli",
+      "aliases": []
+    },
+    "stichaeida_emeraude": {
+      "label": "Stichaeida Émeraude",
+      "en": "Emerald Prickleback",
+      "url": "https://soulframewiki.fr/faune/stichaeida-emeraude",
+      "aliases": []
+    },
+    "vache": {
+      "label": "Vache",
+      "en": "Cows",
+      "url": "",
+      "aliases": []
+    }
+  },
+  "compagnons": {
+    "cathal": {
+      "label": "Cathal",
+      "en": "Cathal",
+      "url": "https://soulframewiki.fr/compagnons/cathal",
+      "aliases": []
+    },
+    "ciar": {
+      "label": "Ciar",
+      "en": "Ciar",
+      "url": "https://soulframewiki.fr/compagnons/ciar",
+      "aliases": []
+    },
+    "cuan": {
+      "label": "Cuan",
+      "en": "Cuan",
+      "url": "https://soulframewiki.fr/compagnons/cuan",
+      "aliases": []
+    }
+  },
+  "personnages": {
+    "aileas": {
+      "label": "Aileas",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "alora": {
+      "label": "Alora",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "avakot": {
+      "label": "Avakot",
+      "en": "Avakot",
+      "url": "https://soulframewiki.fr/personnages/avakot",
+      "aliases": []
+    },
+    "bayor_de_la_tempete": {
+      "label": "Bayor de la Tempête",
+      "en": "Tempest Bayor",
+      "url": "",
+      "aliases": []
+    },
+    "bromius": {
+      "label": "Bromius",
+      "en": "Bromius",
+      "url": "https://soulframewiki.fr/personnages/bromius",
+      "aliases": []
+    },
+    "choupette": {
+      "label": "Choupette",
+      "en": "Floppet",
+      "url": "",
+      "aliases": []
+    },
+    "dame_deora": {
+      "label": "Dame Deora",
+      "en": "Lady Deora",
+      "url": "https://soulframewiki.fr/personnages/lady-deora",
+      "aliases": []
+    },
+    "doyen": {
+      "label": "Doyen",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "fenn_jotar_le_roi_flamboyant": {
+      "label": "Fenn Jotar, Le Roi Flamboyant",
+      "en": "Fire King Fenn Jotar",
+      "url": "https://soulframewiki.fr/personnages/fire-king-fenn-jotar",
+      "aliases": []
+    },
+    "garren_rood": {
+      "label": "Garren Rood",
+      "en": "Garren Rood",
+      "url": "https://soulframewiki.fr/personnages/garren-rood",
+      "aliases": []
+    },
+    "la_sorciere_verminia": {
+      "label": "La Sorcière Verminia",
+      "en": "The Witch Verminia",
+      "url": "https://soulframewiki.fr/personnages/verminia",
+      "aliases": []
+    },
+    "lord_synod": {
+      "label": "Lord Synod",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "mada": {
+      "label": "Mada",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "mestra_carmo": {
+      "label": "Mestra Carmo",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "oracle_des_vallons": {
+      "label": "Oracle des Vallons",
+      "en": "Dale Seer",
+      "url": "",
+      "aliases": []
+    },
+    "orengall": {
+      "label": "Orengall",
+      "en": "Orengall",
+      "url": "https://soulframewiki.fr/personnages/orengall",
+      "aliases": []
+    },
+    "orlick_le_bicephale": {
+      "label": "Orlick le Bicéphale",
+      "en": "Orlick the Bicameral",
+      "url": "https://soulframewiki.fr/personnages/orlick-the-bicameral",
+      "aliases": []
+    },
+    "torque": {
+      "label": "Torque",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "tuvalkane_la_chantacier": {
+      "label": "Tuvalkane la Chantacier",
+      "en": "Steelsinger Tuvalkane",
+      "url": "https://soulframewiki.fr/personnages/steelsinger-tulvakane",
+      "aliases": []
+    },
+    "zenith": {
+      "label": "Zenith",
+      "en": "Zenith",
+      "url": "",
+      "aliases": []
+    }
+  },
+  "flore": {
+    "acide_de_trempe": {
+      "label": "Acide de Trempe",
+      "en": "Quenching Acid",
+      "url": "https://soulframewiki.fr/flore/acide-de-trempe",
+      "aliases": []
+    },
+    "agarique": {
+      "label": "Agarique",
+      "en": "Agaric",
+      "url": "https://soulframewiki.fr/flore/agarique",
+      "aliases": []
+    },
+    "baiser_de_mora": {
+      "label": "Baiser de Mora",
+      "en": "Mora’s Kiss",
+      "url": "https://soulframewiki.fr/flore/baiser-de-mora",
+      "aliases": []
+    },
+    "champignon_de_feu": {
+      "label": "Champignon de Feu",
+      "en": "Fire Fungus",
+      "url": "https://soulframewiki.fr/flore/champignon-de-feu",
+      "aliases": []
+    },
+    "cloche_de_deuil": {
+      "label": "Cloche de Deuil",
+      "en": "Mourning Bell",
+      "url": "https://soulframewiki.fr/flore/cloche-de-deuil",
+      "aliases": []
+    },
+    "dris_pleureur": {
+      "label": "Dris Pleureur",
+      "en": "Weepin’ Dris",
+      "url": "https://soulframewiki.fr/flore/dris-pleureur",
+      "aliases": []
+    },
+    "fil_de_saumure": {
+      "label": "Fil de Saumure",
+      "en": "Brinefloss",
+      "url": "https://soulframewiki.fr/flore/fil-de-saumure",
+      "aliases": []
+    },
+    "fleau_des_ames": {
+      "label": "Fléau des Âmes",
+      "en": "Soulsbane",
+      "url": "https://soulframewiki.fr/flore/fleau-des-ames",
+      "aliases": []
+    },
+    "folie_de_la_reine": {
+      "label": "Folie de la Reine",
+      "en": "Queen’s Folly",
+      "url": "https://soulframewiki.fr/flore/folie-de-la-reine",
+      "aliases": []
+    },
+    "goutte_de_jaden": {
+      "label": "Goutte de Jaden",
+      "en": "Jaden Drop",
+      "url": "https://soulframewiki.fr/flore/goutte-de-jaden",
+      "aliases": []
+    },
+    "herbe_aux_vers": {
+      "label": "Herbe-aux-Vers",
+      "en": "Wyrmwort",
+      "url": "https://soulframewiki.fr/flore/herbe-aux-vers",
+      "aliases": []
+    },
+    "langue_de_grynne": {
+      "label": "Langue de Grynne",
+      "en": "Grynnetongue",
+      "url": "https://soulframewiki.fr/flore/langue-de-grynne",
+      "aliases": []
+    },
+    "lotus": {
+      "label": "Lotus",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "lullily": {
+      "label": "Lullily",
+      "en": "Lullily",
+      "url": "https://soulframewiki.fr/flore/lullily",
+      "aliases": []
+    },
+    "mie_de_synod": {
+      "label": "Mie de Synod",
+      "en": "Synod’s Maiden",
+      "url": "https://soulframewiki.fr/flore/mie-de-synod",
+      "aliases": []
+    },
+    "molderreed": {
+      "label": "MolderReed",
+      "en": "MolderReed",
+      "url": "",
+      "aliases": []
+    },
+    "orteil_de_l_ode": {
+      "label": "Orteil de l’Ode",
+      "en": "Toe of Ode",
+      "url": "https://soulframewiki.fr/flore/orteil-de-l-ode",
+      "aliases": []
+    },
+    "pied_des_profondeurs": {
+      "label": "Pied des Profondeurs",
+      "en": "Neathcap",
+      "url": "https://soulframewiki.fr/flore/pied-des-profondeurs",
+      "aliases": []
+    },
+    "rose_de_l_hymne": {
+      "label": "Rose de l’Hymne",
+      "en": "Hymn Rose",
+      "url": "https://soulframewiki.fr/flore/rose-de-l-hymne",
+      "aliases": []
+    },
+    "rotroot": {
+      "label": "RotRoot",
+      "en": "RotRoot",
+      "url": "",
+      "aliases": []
+    },
+    "sangelia": {
+      "label": "Sangélia",
+      "en": "Sangelia",
+      "url": "https://soulframewiki.fr/flore/sangelia",
+      "aliases": []
+    },
+    "spore_de_rosee": {
+      "label": "Spore de Rosée",
+      "en": "Dewspore",
+      "url": "https://soulframewiki.fr/flore/spore-de-rosee",
+      "aliases": []
+    },
+    "saululbe": {
+      "label": "Saululbe",
+      "en": "Will-o-wing",
+      "url": "https://soulframewiki.fr/ressources/will-o-wing",
+      "aliases": []
+    }
+  },
+  "consommables": {
+    "anvoutemanz_dansant": {
+      "label": "Anvoutemanz Dansant",
+      "en": "Dancing Galdre",
+      "url": "https://soulframewiki.fr/consommables/anvoutemanz-dansant",
+      "aliases": []
+    },
+    "appat_a_plumes": {
+      "label": "Appât à Plumes",
+      "en": "Feathered Flier",
+      "url": "https://soulframewiki.fr/consommables/appat-a-plumes",
+      "aliases": []
+    },
+    "attrape_ecumeur": {
+      "label": "Attrape-Écumeur",
+      "en": "Pluckfin Skimmer",
+      "url": "https://soulframewiki.fr/consommables/attrape-ecumeur",
+      "aliases": []
+    },
+    "bebete_brochee": {
+      "label": "Bébête Brochée",
+      "en": "Spindled Bugger",
+      "url": "https://soulframewiki.fr/consommables/bebete-broche",
+      "aliases": []
+    },
+    "biscuit_pour_canides": {
+      "label": "Biscuit pour Canidés",
+      "en": "Canid Biscuit",
+      "url": "https://soulframewiki.fr/consommables/biscuit-pour-canides",
+      "aliases": []
+    },
+    "chasse_nuage": {
+      "label": "Chasse-Nuage",
+      "en": "Cloudquell",
+      "url": "https://soulframewiki.fr/consommables/chasse-nuage",
+      "aliases": []
+    },
+    "croquettes_pour_canides": {
+      "label": "Croquettes pour Canidés",
+      "en": "Canid Kibble",
+      "url": "https://soulframewiki.fr/consommables/croquettes-pour-canides",
+      "aliases": []
+    },
+    "graine_de_wevette": {
+      "label": "Graine de Wevette",
+      "en": "Wevetseed",
+      "url": "https://soulframewiki.fr/consommables/graine-de-wevette",
+      "aliases": []
+    },
+    "le_cogah": {
+      "label": "Le Cogah",
+      "en": "The Cogah",
+      "url": "https://soulframewiki.fr/consommables/le-cogah",
+      "aliases": []
+    },
+    "locustax_filant": {
+      "label": "Locustax Filant",
+      "en": "Locustax Streamer",
+      "url": "https://soulframewiki.fr/consommables/locustax-filant",
+      "aliases": []
+    },
+    "marcheur_de_l_umbre": {
+      "label": "Marcheur de l’Umbre",
+      "en": "Shademaker",
+      "url": "https://soulframewiki.fr/consommables/marcheur-de-lumbre",
+      "aliases": []
+    },
+    "petit_baigneur": {
+      "label": "Petit Baigneur",
+      "en": "Snelled Swimmer",
+      "url": "https://soulframewiki.fr/consommables/petit-baigneur",
+      "aliases": []
+    },
+    "sauteuse_de_sirin": {
+      "label": "Sauteuse de Sirin",
+      "en": "Sirin's Hopper",
+      "url": "https://soulframewiki.fr/consommables/sauteuse-de-sirin",
+      "aliases": []
+    },
+    "scuteur": {
+      "label": "Scuteur",
+      "en": "Scuteur",
+      "url": "https://soulframewiki.fr/consommables/scuteur",
+      "aliases": []
+    },
+    "souffle_de_curaidh": {
+      "label": "Souffle de Curaidh",
+      "en": "Curaidh's Breath",
+      "url": "https://soulframewiki.fr/consommables/souffle-de-curaidh",
+      "aliases": []
+    },
+    "elixir_de_vie": {
+      "label": "Élixir de Vie",
+      "en": "Life Elixir",
+      "url": "https://soulframewiki.fr/consommables/elixir-de-vie",
+      "aliases": []
+    },
+    "attrape_nuage": {
+      "label": "Attrape-Nuage",
+      "en": "Cloudswell",
+      "url": "https://soulframewiki.fr/consommables/attrape-nuage",
+      "aliases": []
+    },
+    "biscuit_du_jour_de_bairn": {
+      "label": "Biscuit du Jour de Bairn",
+      "en": "Bairnday Biscuit",
+      "url": "https://soulframewiki.fr/consommables/biscuit-du-jour-de-bairn",
+      "aliases": []
+    },
+    "friandise_mille_feuille": {
+      "label": "Friandise Mille-Feuille",
+      "en": "Follyfrond Treat",
+      "url": "https://soulframewiki.fr/consommables/friandise-mille-feuille",
+      "aliases": []
+    },
+    "mangeoire": {
+      "label": "Mangeoire",
+      "en": "Seeder",
+      "url": "https://soulframewiki.fr/ressources/mangeoire",
+      "aliases": []
+    }
+  },
+  "factions": {
+    "la_rose_silencieuse": {
+      "label": "La Rose Silencieuse",
+      "en": "Silent Rose",
+      "url": "https://soulframewiki.fr/factions/silent-rose-enclave",
+      "aliases": []
+    },
+    "la_suite_des_rois": {
+      "label": "La Suite des Rois",
+      "en": "Kith of Kings",
+      "url": "https://soulframewiki.fr/factions/kith-of-kings",
+      "aliases": []
+    },
+    "les_enfants_d_alca": {
+      "label": "Les Enfants d'Alca",
+      "en": "Alca’s Children",
+      "url": "https://soulframewiki.fr/factions/alcas-children",
+      "aliases": []
+    }
+  },
+  "quêtes": {
+    "bastions_de_la_rebellion": {
+      "label": "Bastions de la rébellion",
+      "en": "Bastions of Rebellion",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/bastions-de-la-rebellion",
+      "aliases": []
+    },
+    "biographie_d_un_bicephale": {
+      "label": "Biographie d'un Bicéphale",
+      "en": "A Bicameral's Biography",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/biographie-un-bicephale",
+      "aliases": []
+    },
+    "bois_mort": {
+      "label": "Bois mort",
+      "en": "Deadwood",
+      "url": "https://soulframewiki.fr/quetes/bois-mort",
+      "aliases": []
+    },
+    "brumes_de_primevere": {
+      "label": "Brumes de Primevère",
+      "en": "Thawtide",
+      "url": "https://soulframewiki.fr/activites/brumes-de-primevre",
+      "aliases": []
+    },
+    "benedictions_de_la_bataille": {
+      "label": "Bénédictions de la bataille",
+      "en": "Blessings of Battle",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/benedictions-de-la-bataille",
+      "aliases": []
+    },
+    "chants_de_guerre": {
+      "label": "Chants de Guerre",
+      "en": "Warsongs",
+      "url": "https://soulframewiki.fr/quetes/chants-de-guerre",
+      "aliases": []
+    },
+    "cogah": {
+      "label": "Cogah",
+      "en": "Cogah",
+      "url": "https://soulframewiki.fr/activites/cogah",
+      "aliases": []
+    },
+    "compendium_des_ennemis": {
+      "label": "Compendium des ennemis",
+      "en": "Compendium of Foes",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/compendium-des-ennemis",
+      "aliases": []
+    },
+    "fort_corlee": {
+      "label": "Fort Corlée",
+      "en": "Fort Curlail",
+      "url": "https://soulframewiki.fr/activites/siege-de-chateau/fort-corlee",
+      "aliases": []
+    },
+    "fort_de_mirifuir": {
+      "label": "Fort de Mirifuir",
+      "en": "Mirifuir",
+      "url": "https://soulframewiki.fr/activites/siege-de-chateau/fort-de-mirifuir",
+      "aliases": []
+    },
+    "fort_de_kairnbroch": {
+      "label": "Fort de Kairnbroch",
+      "en": "Fort Kearnhold",
+      "url": "https://soulframewiki.fr/activites/siege-de-chateau/fort-kearnhold",
+      "aliases": []
+    },
+    "hark_le_collecteur": {
+      "label": "Hark, Le Collecteur",
+      "en": "Hark, The Collector",
+      "url": "https://soulframewiki.fr/activites/hark-le-collecteur",
+      "aliases": []
+    },
+    "l_organe": {
+      "label": "L'Organe",
+      "en": "The Organ",
+      "url": "https://soulframewiki.fr/activites/organe",
+      "aliases": []
+    },
+    "l_ours_de_la_desolation": {
+      "label": "L’Ours de la Désolation",
+      "en": "The Waste Bear",
+      "url": "https://soulframewiki.fr/quetes/the-waste-bear",
+      "aliases": []
+    },
+    "l_epave_de_mestra_carmo": {
+      "label": "L'Épave de Mestra Carmo",
+      "en": "The Wreck of Mestra Carmo",
+      "url": "https://soulframewiki.fr/quetes/epave-de-mestra-carmo",
+      "aliases": []
+    },
+    "la_brasseuse_de_couleurs": {
+      "label": "La Brasseuse de Couleurs",
+      "en": "Brewer of Hues",
+      "url": "https://soulframewiki.fr/quetes/brewer-of-hues",
+      "aliases": []
+    },
+    "la_chantacier": {
+      "label": "La Chantacier",
+      "en": "The Steelsinger",
+      "url": "https://soulframewiki.fr/quetes/the-steelsinger",
+      "aliases": []
+    },
+    "la_foudre_en_fiole": {
+      "label": "La foudre en fiole",
+      "en": "Lightning in a Vial",
+      "url": "https://soulframewiki.fr/quetes/la-foudre-en-fiole",
+      "aliases": []
+    },
+    "la_louve_piegee": {
+      "label": "La Louve Piégée",
+      "en": "The Shewolf Snared",
+      "url": "https://soulframewiki.fr/quetes/the-shewolf-snared",
+      "aliases": []
+    },
+    "la_maitresse_du_fil": {
+      "label": "La Maîtresse du Fil",
+      "en": "Mistress of the Thread",
+      "url": "https://soulframewiki.fr/quetes/la-maitresse-du-fil",
+      "aliases": []
+    },
+    "le_cerf_tourmente": {
+      "label": "Le Cerf Tourmenté",
+      "en": "The Torment Stag",
+      "url": "https://soulframewiki.fr/quetes/the-torment-stag",
+      "aliases": []
+    },
+    "le_chaudron_d_un_coven": {
+      "label": "Le Chaudron d'un Coven",
+      "en": "A Coven's Cauldron",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/le-chaudron-d-un-coven",
+      "aliases": []
+    },
+    "le_dernier_philosophe": {
+      "label": "Le Dernier Philosophe",
+      "en": "The Last Pensive",
+      "url": "https://soulframewiki.fr/quetes/the-last-pensive",
+      "aliases": []
+    },
+    "le_festival_de_circade": {
+      "label": "Le Festival de Circade",
+      "en": "Festival of the Circade",
+      "url": "https://soulframewiki.fr/activites/festival-of-the-circade",
+      "aliases": []
+    },
+    "les_sagas_d_orlick": {
+      "label": "Les Sagas d’Orlick",
+      "en": "Orlick’s Sagas",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick",
+      "aliases": []
+    },
+    "les_vastes_voix_de_la_foret": {
+      "label": "Les Vastes Voix de la Forêt",
+      "en": "The Forest's Vast Voices",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/les-vastes-voix-de-la-foret",
+      "aliases": []
+    },
+    "levez_vous_heraut": {
+      "label": "Levez-vous, Héraut",
+      "en": "Rise, Envoy",
+      "url": "https://soulframewiki.fr/quetes/levez-vous-heraut",
+      "aliases": []
+    },
+    "messager_de_la_rose": {
+      "label": "Messager de la Rose",
+      "en": "Runner of the Rose",
+      "url": "https://soulframewiki.fr/quetes/messager-de-la-rose",
+      "aliases": []
+    },
+    "melodies_de_fer_en_fusion": {
+      "label": "Mélodies de fer en fusion",
+      "en": "Melodies of Molt-iron",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/melodies-de-fer-en-fusion",
+      "aliases": []
+    },
+    "oblivio": {
+      "label": "Oblivio",
+      "en": "Oblivio",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/oblivio",
+      "aliases": []
+    },
+    "ou_poussent_les_racines_de_wevette": {
+      "label": "Où poussent les racines de Wevette",
+      "en": "Where Shoots the Wevetroots",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/ou-poussent-les-racines-de-wevette",
+      "aliases": []
+    },
+    "siege_de_chateau": {
+      "label": "Siège de Château",
+      "en": "Siege",
+      "url": "https://soulframewiki.fr/activites/siege-de-chateau",
+      "aliases": []
+    },
+    "tourelle_de_jotar": {
+      "label": "Tourelle de Jotar",
+      "en": "Turret Jotar",
+      "url": "https://soulframewiki.fr/activites/siege-de-chateau/tourelle-de-jotar",
+      "aliases": []
+    },
+    "un_titre": {
+      "label": "Un titre",
+      "en": "A Title",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/un-titre",
+      "aliases": []
+    },
+    "une_grande_fable": {
+      "label": "Une Grande Fable",
+      "en": "A Grand Fable",
+      "url": "https://soulframewiki.fr/quetes/les-sagas-dorlick/une-grande-fable",
+      "aliases": []
+    },
+    "une_sorciere_en_retrait": {
+      "label": "Une sorcière en retrait",
+      "en": "A With Withdrawn",
+      "url": "https://soulframewiki.fr/quetes/a-with-withdrawn",
+      "aliases": []
+    },
+    "chemin_de_lumiere": {
+      "label": "Chemin de Lumière",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "cibles_et_munitions": {
+      "label": "Cibles et Munitions",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "collecteur_de_fonds": {
+      "label": "Collecteur de Fonds",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "c_est_le_sel": {
+      "label": "C’est le Sel",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "devastation": {
+      "label": "Dévastation",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "en_garde": {
+      "label": "En Garde !",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "faites_face_a_la_charge": {
+      "label": "Faites Face à la Charge",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "festin_de_glouton": {
+      "label": "Festin de Glouton",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "gorge_de_redgum": {
+      "label": "Gorge de Redgum",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "l_hamecon_du_vairon": {
+      "label": "L'hameçon du Vairon",
+      "en": "Minnow’s Hook",
+      "url": "https://soulframewiki.fr/quetes/lhameon-du-vairon",
+      "aliases": []
+    },
+    "la_fine_fleur_de_synod": {
+      "label": "La Fine Fleur de Synod",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "la_taupe_de_l_augure": {
+      "label": "La Taupe de l’Augure",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "la_veille_de_bita": {
+      "label": "La Veille de Bita",
+      "en": "Bita's Eve",
+      "url": "https://soulframewiki.fr/activites/la-veille-de-bita",
+      "aliases": []
+    },
+    "le_nouvel_ods": {
+      "label": "Le Nouvel Ods",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "les_terres_du_voile_siphon": {
+      "label": "Les Terres du Voile : Siphon",
+      "en": "The Veilands",
+      "url": "",
+      "aliases": []
+    },
+    "marche_de_la_manche": {
+      "label": "Marche de la Manche",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "marcheurs_nocturnes": {
+      "label": "Marcheurs Nocturnes",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_de_la_rose_1": {
+      "label": "Obsécration de la Rose (1)",
+      "en": "Rose Faction Tale (T1)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_de_la_rose_2": {
+      "label": "Obsécration de la Rose (2)",
+      "en": "Rose Faction Tale (T2)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_de_la_rose_3": {
+      "label": "Obsécration de la Rose (3)",
+      "en": "Rose Faction Tale (T3)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_des_rois_1": {
+      "label": "Obsécration des Rois (1)",
+      "en": "King Faction Tale (T1)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_des_rois_2": {
+      "label": "Obsécration des Rois (2)",
+      "en": "King Faction Tale (T2)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_des_rois_3": {
+      "label": "Obsécration des Rois (3)",
+      "en": "King Faction Tale (T3)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_d_enfant_d_alca_1": {
+      "label": "Obsécration d’Enfant d’Alca (1)",
+      "en": "Alca Faction Tale (T1)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_d_enfant_d_alca_2": {
+      "label": "Obsécration d’Enfant d’Alca (2)",
+      "en": "Alca Faction Tale (T2)",
+      "url": "",
+      "aliases": []
+    },
+    "obsecration_d_enfant_d_alca_3": {
+      "label": "Obsécration d’Enfant d’Alca (3)",
+      "en": "Alca Faction Tale (T3)",
+      "url": "",
+      "aliases": []
+    },
+    "pointe_de_la_lance": {
+      "label": "Pointe de la Lance",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "peche": {
+      "label": "Pêche",
+      "en": "Fishing",
+      "url": "https://soulframewiki.fr/guides/guide-peche",
+      "aliases": []
+    },
+    "siphon_de_airde_limbwoods": {
+      "label": "Siphon de Airde Limbwoods",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_de_forteresse_o_dell": {
+      "label": "Siphon de Forteresse O’Dell",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_de_fuirlandes": {
+      "label": "Siphon de Fuirlandes",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_de_grande_corlee": {
+      "label": "Siphon de Grande Corlée",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_de_porzh_brumennek": {
+      "label": "Siphon de Porzh Brumennek",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_des_basses_terres_de_kairnbroch": {
+      "label": "Siphon des Basses Terres de Kairnbroch",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_des_roods": {
+      "label": "Siphon des Roods",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siege_assiege": {
+      "label": "Siège Assiégé",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "siege_assiege_alca": {
+      "label": "Siège Assiégé (Alca)",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "soie_sournoise": {
+      "label": "Soie Sournoise",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "tresors_a_decouvrir": {
+      "label": "Trésors à Découvrir",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "un_lapin_pose_un_lapin": {
+      "label": "Un Lapin pose un Lapin",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "une_invitation": {
+      "label": "Une invitation…",
+      "en": "An Invitation…",
+      "url": "",
+      "aliases": []
+    },
+    "verset_des_terres_du_voile": {
+      "label": "Verset des Terres du Voile",
+      "en": "Verse of the Veilands",
+      "url": "",
+      "aliases": []
+    },
+    "visez_l_oeil": {
+      "label": "Visez l'Œil",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "a_la_recherche_du_crepuscule": {
+      "label": "À la Recherche du Crépuscule",
+      "en": "",
+      "url": "",
+      "aliases": []
+    }
+  },
+  "ennemis agaris & boss": {
+    "archer_de_l_ode": {
+      "label": "Archer de l’Ode",
+      "en": "Ode’n Hunter",
+      "url": "",
+      "aliases": []
+    },
+    "assassin_de_l_ode": {
+      "label": "Assassin de l’Ode",
+      "en": "Ode’n Assassin",
+      "url": "",
+      "aliases": []
+    },
+    "baliq": {
+      "label": "Baliq",
+      "en": "",
+      "url": "https://soulframewiki.fr/ennemis/baliq",
+      "aliases": []
+    },
+    "banneret_anara": {
+      "label": "Banneret Anara",
+      "en": "",
+      "url": "https://soulframewiki.fr/ennemis/banneret-anara",
+      "aliases": []
+    },
+    "banneret_de_l_ode": {
+      "label": "Banneret de l’Ode",
+      "en": "Ode’n Banneret",
+      "url": "",
+      "aliases": []
+    },
+    "banneret_kylst": {
+      "label": "Banneret Kylst",
+      "en": "",
+      "url": "https://soulframewiki.fr/ennemis/banneret-kylst",
+      "aliases": []
+    },
+    "banneret_sympos": {
+      "label": "Banneret Sympos",
+      "en": "Banneret Sympos",
+      "url": "https://soulframewiki.fr/ennemis/banneret-sympos",
+      "aliases": []
+    },
+    "banneret_toshtan": {
+      "label": "Banneret Toshtan",
+      "en": "",
+      "url": "https://soulframewiki.fr/ennemis/banneret-toshtan",
+      "aliases": []
+    },
+    "bisulcam_de_l_ode": {
+      "label": "Bisulcam de l’Ode",
+      "en": "Ode’n Bisculcam",
+      "url": "https://soulframewiki.fr/ennemis/bisulcam-de-lode",
+      "aliases": []
+    },
+    "brise_renes_de_l_obole": {
+      "label": "Brise-Rênes de l'Obole",
+      "en": "Mendicant Rainbreaker",
+      "url": "",
+      "aliases": []
+    },
+    "bruti_pousse_pourries": {
+      "label": "Bruti'pousse Pourries",
+      "en": "Corrupted Sproutfolk Brute",
+      "url": "",
+      "aliases": []
+    },
+    "bucheron_hewyl": {
+      "label": "Bûcheron Hewyl",
+      "en": "Fore-Feller Hewyl",
+      "url": "https://soulframewiki.fr/ennemis/bucheron-hewyl",
+      "aliases": []
+    },
+    "cerf_tourmente": {
+      "label": "Cerf Tourmenté",
+      "en": "Torment Stag",
+      "url": "https://soulframewiki.fr/ennemis/cerf-tourmente",
+      "aliases": []
+    },
+    "cerf_vadagar": {
+      "label": "Cerf Vadagar",
+      "en": "Vadagar Stag",
+      "url": "https://soulframewiki.fr/ennemis/cerf-vadagar",
+      "aliases": []
+    },
+    "chasseur_de_primevere": {
+      "label": "Chasseur de Primevère",
+      "en": "Thawtide Hunters",
+      "url": "",
+      "aliases": []
+    },
+    "chevalier_de_l_ode": {
+      "label": "Chevalier de l’Ode",
+      "en": "Ode’n Knight",
+      "url": "",
+      "aliases": []
+    },
+    "chevalier_des_cryptes": {
+      "label": "Chevalier des Cryptes",
+      "en": "Ghost Knight",
+      "url": "https://soulframewiki.fr/ennemis/chevalier-des-cryptes",
+      "aliases": []
+    },
+    "chevalier_du_glas": {
+      "label": "Chevalier du Glas",
+      "en": "Knell Knight",
+      "url": "https://soulframewiki.fr/ennemis/chevalier-du-glas",
+      "aliases": []
+    },
+    "chevaliers_de_l_obole": {
+      "label": "Chevaliers de l’Obole",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "chien_de_chasse_de_l_ode": {
+      "label": "Chien de chasse de l’Ode",
+      "en": "Ode’n Hounds",
+      "url": "",
+      "aliases": []
+    },
+    "chien_de_l_ode_corrompu": {
+      "label": "Chien de l’Ode Corrompu",
+      "en": "Corrupt Ode Dog",
+      "url": "",
+      "aliases": []
+    },
+    "chatelain_malrog": {
+      "label": "Châtelain Malrog",
+      "en": "Castellan Malrog",
+      "url": "https://soulframewiki.fr/ennemis/castellan-malrog",
+      "aliases": []
+    },
+    "chatelaine_huthra": {
+      "label": "Châtelaine Huthra",
+      "en": "",
+      "url": "https://soulframewiki.fr/ennemis/chatelaine-huthra",
+      "aliases": []
+    },
+    "circade": {
+      "label": "Circade",
+      "en": "The Circade",
+      "url": "https://soulframewiki.fr/ennemis/circade",
+      "aliases": []
+    },
+    "corrupted_slug": {
+      "label": "Corrupted Slug",
+      "en": "Corrupted Slug",
+      "url": "",
+      "aliases": []
+    },
+    "etheldred_la_tisserande": {
+      "label": "Etheldred la Tisserande",
+      "en": "Etheldred The Weaver",
+      "url": "https://soulframewiki.fr/ennemis/etheldred-the-weaver",
+      "aliases": []
+    },
+    "gawth_devoye_de_la_sinecure": {
+      "label": "Gawth Dévoyé de la Sinécure",
+      "en": "Sinecure-errant Gawth",
+      "url": "https://soulframewiki.fr/ennemis/gawth-devoy-de-la-sinecure",
+      "aliases": []
+    },
+    "gourdo": {
+      "label": "Gourdo",
+      "en": "Gourdo",
+      "url": "https://soulframewiki.fr/ennemis/gourdo",
+      "aliases": []
+    },
+    "impidh_trinitaire": {
+      "label": "Impidh Trinitaire",
+      "en": "Thrice-bound Impidh",
+      "url": "https://soulframewiki.fr/ennemis/thrice-bound-impidh",
+      "aliases": []
+    },
+    "kabocha": {
+      "label": "Kabocha",
+      "en": "Kabocha",
+      "url": "https://soulframewiki.fr/ennemis/kabocha",
+      "aliases": []
+    },
+    "l_ensorceleur_de_la_desolation": {
+      "label": "L’Ensorceleur de la Désolation",
+      "en": "Wazzard of Wastes",
+      "url": "https://soulframewiki.fr/ennemis/ensorceleur-de-la-desolation",
+      "aliases": []
+    },
+    "l_ours_de_la_desolation": {
+      "label": "L’Ours de la Désolation",
+      "en": "The Waste Bear",
+      "url": "https://soulframewiki.fr/ennemis/ours-de-la-desolation",
+      "aliases": []
+    },
+    "lanceur_de_sorts_de_l_ode": {
+      "label": "Lanceur de sorts de l’Ode",
+      "en": "Ode’n Caster",
+      "url": "",
+      "aliases": []
+    },
+    "le_faucheur_ecorche": {
+      "label": "Le Faucheur Écorché",
+      "en": "Reaper",
+      "url": "https://soulframewiki.fr/ennemis/faucheur",
+      "aliases": []
+    },
+    "le_roi_a_l_obole": {
+      "label": "Le Roi à l’Obole",
+      "en": "Mendicant King",
+      "url": "https://soulframewiki.fr/ennemis/mendicant-king",
+      "aliases": []
+    },
+    "mestra_carmo": {
+      "label": "Mestra Carmo",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "mistrels_de_l_ode": {
+      "label": "Mistrels de l'Ode",
+      "en": "Ode’n Mistrel",
+      "url": "",
+      "aliases": []
+    },
+    "mockeries": {
+      "label": "Mockeries",
+      "en": "Mockeries",
+      "url": "https://soulframewiki.fr/ennemis/mockery",
+      "aliases": []
+    },
+    "nimrod": {
+      "label": "Nimrod",
+      "en": "Nimrod",
+      "url": "https://soulframewiki.fr/ennemis/nimrod",
+      "aliases": []
+    },
+    "nimrod_demobilise": {
+      "label": "Nimrod Démobilisé",
+      "en": "Discharged Nimrod",
+      "url": "https://soulframewiki.fr/ennemis/discharged-nimrod",
+      "aliases": []
+    },
+    "ode_n_mine": {
+      "label": "Ode’n Mine",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "ours_vadagar": {
+      "label": "Ours Vadagar",
+      "en": "Vadagar Bear",
+      "url": "https://soulframewiki.fr/ennemis/ours-vadagar",
+      "aliases": []
+    },
+    "piege_voltaique": {
+      "label": "Piège Voltaïque",
+      "en": "Voltaïc Snare",
+      "url": "",
+      "aliases": []
+    },
+    "raleurs_de_l_ode": {
+      "label": "Râleurs de l'Ode",
+      "en": "Ode’n Moaner",
+      "url": "",
+      "aliases": []
+    },
+    "rodeur_des_cryptes": {
+      "label": "Rôdeur des Cryptes",
+      "en": "Hallow Spirit",
+      "url": "https://soulframewiki.fr/ennemis/rodeur-des-cryptes",
+      "aliases": []
+    },
+    "saulaile": {
+      "label": "Saulaile",
+      "en": "Will-o-wings",
+      "url": "",
+      "aliases": []
+    },
+    "soldat_de_l_ode": {
+      "label": "Soldat de l’Ode",
+      "en": "Ode’n Soldier",
+      "url": "",
+      "aliases": []
+    },
+    "spectre_de_la_desolation": {
+      "label": "Spectre de la Désolation",
+      "en": "Wraith of Wastes",
+      "url": "https://soulframewiki.fr/ennemis/wraith-of-wastes",
+      "aliases": []
+    },
+    "sechnall_le_veuf": {
+      "label": "Séchnall le Veuf",
+      "en": "Seachnall the Widower",
+      "url": "https://soulframewiki.fr/ennemis/sechnall-le-veuf",
+      "aliases": []
+    },
+    "tisserand": {
+      "label": "Tisserand",
+      "en": "Weaver",
+      "url": "",
+      "aliases": []
+    },
+    "traqueur_de_gruul_ruthos": {
+      "label": "Traqueur de Gruul Ruthos",
+      "en": "Gruul Seeker Ruthos",
+      "url": "https://soulframewiki.fr/ennemis/traqueur-de-gruul-ruthos",
+      "aliases": []
+    },
+    "traqueur_de_gruul_sontaro": {
+      "label": "Traqueur de Gruul Sontaro",
+      "en": "Gruul Seeker Sontaro",
+      "url": "https://soulframewiki.fr/ennemis/traqueur-de-gruul-sontaro",
+      "aliases": []
+    },
+    "vella_la_vagabonde_de_la_sinecure": {
+      "label": "Vella, la Vagabonde de la Sinécure",
+      "en": "Sinecure-errant Vella",
+      "url": "https://soulframewiki.fr/ennemis/vella-la-vagabonde-de-la-sinecure",
+      "aliases": []
+    },
+    "vers_wyrm": {
+      "label": "Vers Wyrm",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "vertepousses_pourries": {
+      "label": "Vertepousses Pourries",
+      "en": "Corrupted Sproutfolk",
+      "url": "",
+      "aliases": []
+    },
+    "wyrm_rovgot": {
+      "label": "Wyrm Rovgot",
+      "en": "Rovgot Wyrm",
+      "url": "",
+      "aliases": []
+    },
+    "spontailh": {
+      "label": "Spontailh",
+      "en": "Tattie-Bogles",
+      "url": "",
+      "aliases": []
+    },
+    "ceptet": {
+      "label": "Ceptet",
+      "en": "Ceptet",
+      "url": "https://soulframewiki.fr/ennemis/ceptet",
+      "aliases": []
+    },
+    "conducteur_benisun": {
+      "label": "Conducteur Benisun",
+      "en": "Conductor Benisun",
+      "url": "",
+      "aliases": []
+    },
+    "conducteur_hydor": {
+      "label": "Conducteur Hydor",
+      "en": "Conductor Hydor",
+      "url": "",
+      "aliases": []
+    },
+    "le_boueux": {
+      "label": "Le Boueux",
+      "en": "The Sludgehog",
+      "url": "",
+      "aliases": []
+    },
+    "maitre_chien_solkan": {
+      "label": "Maître-chien Solkan",
+      "en": "Houndmeister Solkan",
+      "url": "",
+      "aliases": []
+    },
+    "veltruska": {
+      "label": "Veltruska",
+      "en": "Veltruska",
+      "url": "https://soulframewiki.fr/ennemis/veltruska",
+      "aliases": []
+    },
+    "moquerie_canine": {
+      "label": "Moquerie Canine",
+      "en": "Canid Mockery",
+      "url": "",
+      "aliases": []
+    },
+    "moquerie_porcine": {
+      "label": "Moquerie Porcine",
+      "en": "Mockery Swine",
+      "url": "",
+      "aliases": []
+    },
+    "chevaliers_de_l_obole_obole": {
+      "label": "Chevaliers de l'Obole",
+      "en": "Mendicant Soldier",
+      "url": "",
+      "aliases": []
+    },
+    "caelam_de_l_ode": {
+      "label": "Caelam de l'Ode",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "gueule_de_bois": {
+      "label": "Gueule de Bois",
+      "en": "Ode'n Timbermaw",
+      "url": "",
+      "aliases": []
+    },
+    "siphon_de_l_ode": {
+      "label": "Siphon de l’Ode",
+      "en": "Ode Siphon",
+      "url": "",
+      "aliases": []
+    }
+  },
+  "armes": {
+    "avex": {
+      "label": "Avex",
+      "en": "Avex",
+      "url": "https://soulframewiki.fr/armes/avex",
+      "aliases": []
+    },
+    "bayor_s_sword": {
+      "label": "Bayor’s Sword",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "blitzel": {
+      "label": "Blitzel",
+      "en": "Blitzel",
+      "url": "https://soulframewiki.fr/armes/blitzel",
+      "aliases": []
+    },
+    "bog_myrte": {
+      "label": "Bog & Myrte",
+      "en": "Bog Myrtle",
+      "url": "https://soulframewiki.fr/armes/bog-myrtle",
+      "aliases": []
+    },
+    "chardon": {
+      "label": "Chardon",
+      "en": "Thistle",
+      "url": "https://soulframewiki.fr/armes/thistle",
+      "aliases": []
+    },
+    "clivers": {
+      "label": "Clivers",
+      "en": "Clivers",
+      "url": "https://soulframewiki.fr/armes/clivers",
+      "aliases": []
+    },
+    "cle_de_basker": {
+      "label": "Clé de Basker",
+      "en": "Basker's Wrest",
+      "url": "https://soulframewiki.fr/armes/cle-de-basker",
+      "aliases": []
+    },
+    "cobladh": {
+      "label": "Cobladh",
+      "en": "Cobladh",
+      "url": "https://soulframewiki.fr/armes/cobladh",
+      "aliases": []
+    },
+    "couronne": {
+      "label": "Couronne",
+      "en": "Wreath",
+      "url": "https://soulframewiki.fr/armes/couronne",
+      "aliases": []
+    },
+    "cenotaphe": {
+      "label": "Cénotaphe",
+      "en": "Cenotaph",
+      "url": "https://soulframewiki.fr/armes/cenotaphe",
+      "aliases": []
+    },
+    "dewelion": {
+      "label": "Dewelion",
+      "en": "Dewelion",
+      "url": "https://soulframewiki.fr/armes/dewelion",
+      "aliases": []
+    },
+    "duhk_halic": {
+      "label": "Duhk Halic",
+      "en": "Duhk Halic",
+      "url": "https://soulframewiki.fr/armes/duhk-halic",
+      "aliases": []
+    },
+    "espadarte": {
+      "label": "Espadarte",
+      "en": "Espadarte",
+      "url": "https://soulframewiki.fr/armes/espadarte",
+      "aliases": []
+    },
+    "esthelle": {
+      "label": "Esthelle",
+      "en": "Esthelle",
+      "url": "https://soulframewiki.fr/armes/esthelle",
+      "aliases": []
+    },
+    "falx": {
+      "label": "Falx",
+      "en": "Falx",
+      "url": "https://soulframewiki.fr/armes/falx",
+      "aliases": []
+    },
+    "farilwyd": {
+      "label": "Farilwyd",
+      "en": "Farilwyd",
+      "url": "https://soulframewiki.fr/armes/farilwyd",
+      "aliases": []
+    },
+    "fey_thornbow": {
+      "label": "Fey Thornbow",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "fleau_de_la_moelle": {
+      "label": "Fléau de la Moelle",
+      "en": "Marrow’s Bane",
+      "url": "https://soulframewiki.fr/armes/marrows-bane",
+      "aliases": []
+    },
+    "gathannan": {
+      "label": "Gathannan",
+      "en": "Gathannan",
+      "url": "https://soulframewiki.fr/armes/gathannan",
+      "aliases": []
+    },
+    "grimana": {
+      "label": "Grimana",
+      "en": "Grimana",
+      "url": "https://soulframewiki.fr/armes/grimana",
+      "aliases": []
+    },
+    "grinn": {
+      "label": "Grinn",
+      "en": "Grinn",
+      "url": "https://soulframewiki.fr/armes/grinn",
+      "aliases": []
+    },
+    "gwylen": {
+      "label": "Gwylen",
+      "en": "Gwylen",
+      "url": "https://soulframewiki.fr/armes/gwylen",
+      "aliases": []
+    },
+    "gystalt": {
+      "label": "Gystalt",
+      "en": "Gystalt",
+      "url": "https://soulframewiki.fr/armes/gystalt",
+      "aliases": []
+    },
+    "igne_mora": {
+      "label": "Igne Mora",
+      "en": "Igne Mora",
+      "url": "https://soulframewiki.fr/armes/igne-mora",
+      "aliases": []
+    },
+    "ilverac": {
+      "label": "Ilverac",
+      "en": "Ilverac",
+      "url": "https://soulframewiki.fr/armes/ilverac",
+      "aliases": []
+    },
+    "juniper": {
+      "label": "Juniper",
+      "en": "Juniper",
+      "url": "https://soulframewiki.fr/armes/juniper",
+      "aliases": []
+    },
+    "l_aiguille": {
+      "label": "L’Aiguille",
+      "en": "Needleseye",
+      "url": "https://soulframewiki.fr/armes/aiguille",
+      "aliases": []
+    },
+    "l_aulne": {
+      "label": "L'Aulne",
+      "en": "The Alder",
+      "url": "https://soulframewiki.fr/armes/les-aieux",
+      "aliases": []
+    },
+    "l_ivoire": {
+      "label": "L’Ivoire",
+      "en": "The Ivor",
+      "url": "https://soulframewiki.fr/armes/ivoire",
+      "aliases": []
+    },
+    "la_souche": {
+      "label": "La Souche",
+      "en": "The Erstroot",
+      "url": "https://soulframewiki.fr/armes/the-erstroot",
+      "aliases": []
+    },
+    "la_tour": {
+      "label": "La Tour",
+      "en": "Rook",
+      "url": "https://soulframewiki.fr/armes/rook",
+      "aliases": []
+    },
+    "lames_trinitaires": {
+      "label": "Lames Trinitaires",
+      "en": "Thrice Spurns",
+      "url": "https://soulframewiki.fr/armes/lames-trinitaires",
+      "aliases": []
+    },
+    "le_parangon": {
+      "label": "Le Parangon",
+      "en": "The Paragon",
+      "url": "https://soulframewiki.fr/armes/le-paragon",
+      "aliases": []
+    },
+    "les_lames_royales": {
+      "label": "Les Lames Royales",
+      "en": "The Royal Tines",
+      "url": "https://soulframewiki.fr/armes/royal-tines",
+      "aliases": []
+    },
+    "lyke_wake": {
+      "label": "Lyke-Wake",
+      "en": "Lyke-Wake",
+      "url": "https://soulframewiki.fr/armes/lyke-wake",
+      "aliases": []
+    },
+    "maestro": {
+      "label": "Maestro",
+      "en": "Maestro",
+      "url": "https://soulframewiki.fr/armes/maestro",
+      "aliases": []
+    },
+    "mother_longsword": {
+      "label": "Mother - Longsword",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "navalha": {
+      "label": "Navalha",
+      "en": "Navalha",
+      "url": "https://soulframewiki.fr/armes/navalha",
+      "aliases": []
+    },
+    "nurash": {
+      "label": "Nurash",
+      "en": "Nurash",
+      "url": "https://soulframewiki.fr/armes/nurash",
+      "aliases": []
+    },
+    "odiac": {
+      "label": "Odiac",
+      "en": "Odiac",
+      "url": "https://soulframewiki.fr/armes/odiac",
+      "aliases": []
+    },
+    "orrengal_sword": {
+      "label": "Orrengal Sword",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "orst_iii": {
+      "label": "Orst-III",
+      "en": "Orst-III",
+      "url": "https://soulframewiki.fr/armes/orst-iii",
+      "aliases": []
+    },
+    "ortie": {
+      "label": "Ortie",
+      "en": "Nettle",
+      "url": "https://soulframewiki.fr/armes/nettle",
+      "aliases": []
+    },
+    "oryn_ombr": {
+      "label": "Oryn-Ombr",
+      "en": "Oryn-Umbr",
+      "url": "https://soulframewiki.fr/armes/oryn-umbr",
+      "aliases": []
+    },
+    "precklies": {
+      "label": "Precklies",
+      "en": "Precklies",
+      "url": "https://soulframewiki.fr/armes/precklies",
+      "aliases": []
+    },
+    "purete": {
+      "label": "Pureté",
+      "en": "Purity",
+      "url": "https://soulframewiki.fr/armes/purete",
+      "aliases": []
+    },
+    "rivt_ii": {
+      "label": "Rivt-II",
+      "en": "Rivt-II",
+      "url": "https://soulframewiki.fr/armes/rivt-ii",
+      "aliases": []
+    },
+    "rostrum": {
+      "label": "Rostrum",
+      "en": "Rostrum",
+      "url": "https://soulframewiki.fr/armes/rostrum",
+      "aliases": []
+    },
+    "silistavf": {
+      "label": "Silistavf",
+      "en": "Silistavf",
+      "url": "https://soulframewiki.fr/armes/silistavf",
+      "aliases": []
+    },
+    "skilter": {
+      "label": "Skílter",
+      "en": "Skílter",
+      "url": "https://soulframewiki.fr/armes/skilter",
+      "aliases": []
+    },
+    "sollos_i": {
+      "label": "Sollos-I",
+      "en": "Sollos-I",
+      "url": "https://soulframewiki.fr/armes/sollos-i",
+      "aliases": []
+    },
+    "stultin": {
+      "label": "Stultin",
+      "en": "Stultin",
+      "url": "https://soulframewiki.fr/armes/stultion",
+      "aliases": []
+    },
+    "tessard": {
+      "label": "Tessard",
+      "en": "Tessard",
+      "url": "https://soulframewiki.fr/armes/tessard",
+      "aliases": []
+    },
+    "unsula": {
+      "label": "Unsula",
+      "en": "Unsula",
+      "url": "https://soulframewiki.fr/armes/unsula",
+      "aliases": []
+    },
+    "vasp_iv": {
+      "label": "Vasp-IV",
+      "en": "Vasp-IV",
+      "url": "https://soulframewiki.fr/armes/vasp-iv",
+      "aliases": []
+    },
+    "veilk": {
+      "label": "Veilk",
+      "en": "Veilk",
+      "url": "https://soulframewiki.fr/armes/veilk",
+      "aliases": []
+    },
+    "vetch": {
+      "label": "Vetch",
+      "en": "Vetch",
+      "url": "https://soulframewiki.fr/armes/vetch",
+      "aliases": []
+    },
+    "virdigris": {
+      "label": "Virdigris",
+      "en": "Virdigris",
+      "url": "https://soulframewiki.fr/armes/virdigris",
+      "aliases": []
+    },
+    "vrusht_ix": {
+      "label": "Vrusht-IX",
+      "en": "Vrusht-IX",
+      "url": "https://soulframewiki.fr/armes/vrusht-ix",
+      "aliases": []
+    },
+    "witan": {
+      "label": "Witan",
+      "en": "Witan",
+      "url": "https://soulframewiki.fr/armes/witan",
+      "aliases": []
+    },
+    "wulder": {
+      "label": "Wulder",
+      "en": "Wulder",
+      "url": "https://soulframewiki.fr/armes/wulder",
+      "aliases": []
+    },
+    "epine_de_mer": {
+      "label": "Épine de Mer",
+      "en": "Seathorn",
+      "url": "https://soulframewiki.fr/armes/epine-de-mer",
+      "aliases": []
+    },
+    "l_etourneau": {
+      "label": "L’Étourneau",
+      "en": "The Starling",
+      "url": "https://soulframewiki.fr/armes/etourneau",
+      "aliases": []
+    },
+    "bonnelame": {
+      "label": "Bonnelame",
+      "en": "Goody’s Edge",
+      "url": "https://soulframewiki.fr/armes/bonnelame",
+      "aliases": []
+    },
+    "creance": {
+      "label": "Créance",
+      "en": "Creance",
+      "url": "https://soulframewiki.fr/armes/creance",
+      "aliases": []
+    },
+    "dhrullai": {
+      "label": "Dhrullai",
+      "en": "Dhrullai",
+      "url": "https://soulframewiki.fr/armes/dhrullai",
+      "aliases": []
+    },
+    "fulkrom": {
+      "label": "Fulkrom",
+      "en": "Fulkrom",
+      "url": "https://soulframewiki.fr/armes/fulkrom",
+      "aliases": []
+    },
+    "loksprik": {
+      "label": "Loksprik",
+      "en": "Loksprik",
+      "url": "https://soulframewiki.fr/armes/loksprik",
+      "aliases": []
+    },
+    "nasilk_urytes_iii": {
+      "label": "Nasilk-Urytes-III",
+      "en": "Nasilk-Urytes-III",
+      "url": "https://soulframewiki.fr/armes/nazilk-urytes-iii",
+      "aliases": []
+    }
+  },
+  "armures": {
+    "apparat_de_garren": {
+      "label": "Apparat de Garren",
+      "en": "Regalia of Garren Rood",
+      "url": "https://soulframewiki.fr/armures/regalia-of-rood",
+      "aliases": []
+    },
+    "armet_d_orengall": {
+      "label": "Armet d’Orengall",
+      "en": "Armet of Orengall",
+      "url": "https://soulframewiki.fr/armures/armet-of-iridis",
+      "aliases": []
+    },
+    "bandeau_de_chantacier": {
+      "label": "Bandeau de Chantacier",
+      "en": "Steelsinger’s Circlet",
+      "url": "https://soulframewiki.fr/armures/prentices-circlet",
+      "aliases": []
+    },
+    "bardeaux_des_brumes_de_primevere": {
+      "label": "Bardeaux des Brumes de Primevère",
+      "en": "Thawtide Shingles",
+      "url": "https://soulframewiki.fr/armures/bardeaux-des-brumes-de-primevere",
+      "aliases": []
+    },
+    "bassinet_du_roi_a_l_obole": {
+      "label": "Bassinet du Roi à l’Obole",
+      "en": "Bascinet of the Mendicant King",
+      "url": "https://soulframewiki.fr/armures/bascinet-of-mendicant",
+      "aliases": []
+    },
+    "bleus_d_oscelda": {
+      "label": "Bleus d’Oscelda",
+      "en": "Oscelda's Blue",
+      "url": "https://soulframewiki.fr/armures/osceldas-blue",
+      "aliases": []
+    },
+    "bois_pourris_des_moqueries": {
+      "label": "Bois Pourris des Moqueries",
+      "en": "Mockery Douthrot",
+      "url": "https://soulframewiki.fr/armures/mockery-douthrot",
+      "aliases": []
+    },
+    "bonnet_du_philosophe": {
+      "label": "Bonnet du Philosophe",
+      "en": "Pensive's Bonnet",
+      "url": "https://soulframewiki.fr/armures/bonnet-du-philosophe",
+      "aliases": []
+    },
+    "bottes_tintenelles_d_oscelda_des_sylves": {
+      "label": "Bottes-tintenelles d'Oscelda des Sylves",
+      "en": "Wyld Oscelda Bektroll",
+      "url": "https://soulframewiki.fr/armures/bottes-tintillantes-oscelda-des-sylves",
+      "aliases": []
+    },
+    "braies_des_tempetes": {
+      "label": "Braies des Tempêtes",
+      "en": "Tempest Braes",
+      "url": "https://soulframewiki.fr/armures/gartered-braes",
+      "aliases": []
+    },
+    "braies_du_feu_oublie": {
+      "label": "Braies du Feu-Oublié",
+      "en": "Forgetfire Braes",
+      "url": "https://soulframewiki.fr/armures/bound-braes",
+      "aliases": []
+    },
+    "braies_du_patriarbre": {
+      "label": "Braies du Patriarbre",
+      "en": "Arbearer's Braes",
+      "url": "https://soulframewiki.fr/armures/arbearers-braes",
+      "aliases": []
+    },
+    "calecon_du_desorceleur": {
+      "label": "Caleçon du Désorceleur",
+      "en": "Wazzard's Trunks",
+      "url": "https://soulframewiki.fr/armures/calecon-du-desorceleur",
+      "aliases": []
+    },
+    "cape_du_philosophe": {
+      "label": "Cape du Philosophe",
+      "en": "Pensive's Cloak",
+      "url": "https://soulframewiki.fr/armures/cape-du-philosophe",
+      "aliases": []
+    },
+    "carapace_du_regent": {
+      "label": "Carapace du Régent",
+      "en": "Regent’s Shell",
+      "url": "https://soulframewiki.fr/armures/flaxen-shell",
+      "aliases": []
+    },
+    "casque_de_felon_de_circade": {
+      "label": "Casque de Félon de Circade",
+      "en": "Circade’s Helm of Deceit",
+      "url": "https://soulframewiki.fr/armures/deceivers-helm",
+      "aliases": []
+    },
+    "casque_de_mestra": {
+      "label": "Casque de Mestra",
+      "en": "Mestra's Helm",
+      "url": "https://soulframewiki.fr/armures/casque-de-mestra",
+      "aliases": []
+    },
+    "ceinture_de_wevette_de_sirin_des_sylves": {
+      "label": "Ceinture de Wevette de Sirin des Sylves",
+      "en": "Wyld Sirin Wevetbelt",
+      "url": "https://soulframewiki.fr/armures/ceinture-de-wevette-sirin-des-sylves",
+      "aliases": []
+    },
+    "chapeau_a_bec_du_desorceleur": {
+      "label": "Chapeau à Bec du Désorceleur",
+      "en": "Wazzard's Bycoket",
+      "url": "https://soulframewiki.fr/armures/chapeau-bec-du-desorceleur",
+      "aliases": []
+    },
+    "chausses_fendues_de_garren": {
+      "label": "Chausses Fendues de Garren",
+      "en": "Garren’s Cloven Hose",
+      "url": "https://soulframewiki.fr/armures/cloven-hose",
+      "aliases": []
+    },
+    "cime_des_brumes_de_primevere": {
+      "label": "Cime des Brumes de Primevère",
+      "en": "Thawtide Meltcap",
+      "url": "https://soulframewiki.fr/armures/cime-des-brumes-de-primevere",
+      "aliases": []
+    },
+    "coiffe_de_tethren": {
+      "label": "Coiffe de Tethren",
+      "en": "Tethren's Cap",
+      "url": "https://soulframewiki.fr/armures/tethrens-cap",
+      "aliases": []
+    },
+    "couronne_de_grace_de_garren": {
+      "label": "Couronne de Grâce de Garren",
+      "en": "Garren’s Crown Of Grace",
+      "url": "https://soulframewiki.fr/armures/crown-of-grace",
+      "aliases": []
+    },
+    "cuir_de_feu_oublie": {
+      "label": "Cuir de Feu-Oublié",
+      "en": "Forgetfire Leathers",
+      "url": "https://soulframewiki.fr/armures/signet-leather",
+      "aliases": []
+    },
+    "cuirasse_d_orengall": {
+      "label": "Cuirasse d’Orengall",
+      "en": "Orengall’s Cuirass",
+      "url": "https://soulframewiki.fr/armures/lycansteel-cuirass",
+      "aliases": []
+    },
+    "cuirasse_du_roi_flamboyant": {
+      "label": "Cuirasse du Roi Flamboyant",
+      "en": "Fire King’s Plackart",
+      "url": "https://soulframewiki.fr/armures/blazen-plackart",
+      "aliases": []
+    },
+    "cuirasse_soliste_tethren_des_sylves": {
+      "label": "Cuirasse Soliste Tethren des Sylves",
+      "en": "Wyld Tethren Solist Shield",
+      "url": "https://soulframewiki.fr/armures/cuirasse-soliste-tethren-des-sylves",
+      "aliases": []
+    },
+    "cuirs_des_tempetes": {
+      "label": "Cuirs des Tempêtes",
+      "en": "Tempest Leathers",
+      "url": "https://soulframewiki.fr/armures/tempest-leathers",
+      "aliases": []
+    },
+    "culottes_de_mestra": {
+      "label": "Culottes de Mestra",
+      "en": "Mestra's Breeches",
+      "url": "https://soulframewiki.fr/armures/culottes-maestra",
+      "aliases": []
+    },
+    "diademe_d_oscelda": {
+      "label": "Diadème d’Oscelda",
+      "en": "Oscelda's Diadem",
+      "url": "https://soulframewiki.fr/armures/osceldas-diadem",
+      "aliases": []
+    },
+    "draperie_du_regent": {
+      "label": "Draperie du Régent",
+      "en": "Regent’s Drapery",
+      "url": "https://soulframewiki.fr/armures/dendrit-drapery",
+      "aliases": []
+    },
+    "degrisement_des_brumes_de_primevere": {
+      "label": "Dégrisement des Brumes de Primevère",
+      "en": "Thawtide Grimguise",
+      "url": "https://soulframewiki.fr/armures/degrisement-des-brumes-de-primevere",
+      "aliases": []
+    },
+    "falbala_mestra": {
+      "label": "Falbala Mestra",
+      "en": "Mestra's Furbelow",
+      "url": "https://soulframewiki.fr/armures/falbala-maestra",
+      "aliases": []
+    },
+    "grand_heaume_du_roi_flamboyant": {
+      "label": "Grand Heaume du Roi Flamboyant",
+      "en": "Great Helm of The Fire King",
+      "url": "https://soulframewiki.fr/armures/great-helm-of-mora",
+      "aliases": []
+    },
+    "greves_cendrees_tethren_des_sylves": {
+      "label": "Grèves Cendrées Tethren des Sylves",
+      "en": "Wyld Tethren Flamefoot",
+      "url": "https://soulframewiki.fr/armures/greves-cendres-tethren-des-sylves",
+      "aliases": []
+    },
+    "greves_d_orengall": {
+      "label": "Grèves d’Orengall",
+      "en": "Orengall’s Greaves",
+      "url": "https://soulframewiki.fr/armures/eventide-greaves",
+      "aliases": []
+    },
+    "greves_de_circade": {
+      "label": "Grèves de Circade",
+      "en": "Circade’s Greaves",
+      "url": "https://soulframewiki.fr/armures/shifters-greaves",
+      "aliases": []
+    },
+    "heaume_a_cornes_tethren_des_sylves": {
+      "label": "Heaume à Cornes Tethren des Sylves",
+      "en": "Wyld Tethren’s Hornhlem",
+      "url": "https://soulframewiki.fr/armures/heaume-cornes-tethren-des-sylves",
+      "aliases": []
+    },
+    "ilk_de_moqueries": {
+      "label": "Ilk de Moqueries",
+      "en": "Mockery Ilk",
+      "url": "https://soulframewiki.fr/armures/mockery-ilk",
+      "aliases": []
+    },
+    "jaque_de_rancune_du_roi_a_l_obole": {
+      "label": "Jaque de Rancune du Roi à l’Obole",
+      "en": "Mendicant King’s Suit of Rancor",
+      "url": "https://soulframewiki.fr/armures/suit-of-rancor",
+      "aliases": []
+    },
+    "jaque_ornee_de_sirin_des_sylves": {
+      "label": "Jaque Ornée de Sirin des Sylves",
+      "en": "Wyld Sirin Finery",
+      "url": "https://soulframewiki.fr/armures/jaque-ornee-sirin-des-sylves",
+      "aliases": []
+    },
+    "kilt_du_roi_flamboyant": {
+      "label": "Kilt du Roi Flamboyant",
+      "en": "Fire King’s Kilt",
+      "url": "https://soulframewiki.fr/armures/flamekin-kilt",
+      "aliases": []
+    },
+    "lanieres_des_moqueries": {
+      "label": "Lanières des Moqueries",
+      "en": "Mockery Binds",
+      "url": "https://soulframewiki.fr/armures/mockery-binds",
+      "aliases": []
+    },
+    "linceul_de_sirin": {
+      "label": "Linceul de Sirin",
+      "en": "Sirin's Shroud",
+      "url": "https://soulframewiki.fr/armures/sirins-shroud",
+      "aliases": []
+    },
+    "masque_de_poppa_pepo": {
+      "label": "Masque de Poppa Pepo",
+      "en": "Poppa Pepo Mask",
+      "url": "https://soulframewiki.fr/armures/poppa-pepo-mask",
+      "aliases": []
+    },
+    "masque_de_vieille_cucurbita": {
+      "label": "Masque de Vieille Cucurbita",
+      "en": "Crone Cucurbita Mask",
+      "url": "https://soulframewiki.fr/armures/crone-cucurbita-mask",
+      "aliases": []
+    },
+    "masque_des_feintes_de_sirin_des_sylves": {
+      "label": "Masque des Feintes de Sirin des Sylves",
+      "en": "Wyld Sirin’s Feignmask",
+      "url": "https://soulframewiki.fr/armures/masque-des-feintes-sirin-des-sylves",
+      "aliases": []
+    },
+    "masque_du_p_tit_zook": {
+      "label": "Masque du P’tit Zook",
+      "en": "Lil’ Zook Mask",
+      "url": "https://soulframewiki.fr/armures/lil-zook-mask",
+      "aliases": []
+    },
+    "masque_du_patriarbre": {
+      "label": "Masque du Patriarbre",
+      "en": "Arbearer's Mask",
+      "url": "https://soulframewiki.fr/armures/arbearers-mask",
+      "aliases": []
+    },
+    "masque_exalte_oscelda_des_sylves": {
+      "label": "Masque Exalté Oscelda des Sylves",
+      "en": "Wyld Oscelda’s Exhalt",
+      "url": "https://soulframewiki.fr/armures/masque-exalte-oscelda-des-sylves",
+      "aliases": []
+    },
+    "pandevoile_oscelda_des_sylves": {
+      "label": "Pandevoile Oscelda des Sylves",
+      "en": "Wyld Oscelda Pendelveil",
+      "url": "https://soulframewiki.fr/armures/pandevoile-oscelda-des-sylves",
+      "aliases": []
+    },
+    "pansiere_du_patriarbre": {
+      "label": "Pansière du Patriarbre",
+      "en": "Arbearer's Pauncher",
+      "url": "https://soulframewiki.fr/armures/arbearers-pauncher",
+      "aliases": []
+    },
+    "pantalons_du_philosophe": {
+      "label": "Pantalons du Philosophe",
+      "en": "Pensive's Pantaloons",
+      "url": "https://soulframewiki.fr/armures/pantalons-du-philosophe",
+      "aliases": []
+    },
+    "pelisse_de_sirin": {
+      "label": "Pelisse de Sirin",
+      "en": "Sirin's Plainhide",
+      "url": "https://soulframewiki.fr/armures/sirins-plainhide",
+      "aliases": []
+    },
+    "philibeg_de_chantacier": {
+      "label": "Philibeg de Chantacier",
+      "en": "Steelsinger’s Shreds",
+      "url": "https://soulframewiki.fr/armures/pabbis-shreds",
+      "aliases": []
+    },
+    "plastron_de_circade": {
+      "label": "Plastron de Circade",
+      "en": "Circade’s Gutguard",
+      "url": "https://soulframewiki.fr/armures/rascals-gutguard",
+      "aliases": []
+    },
+    "plumechausses_d_oscelda": {
+      "label": "Plumechausses d’Oscelda",
+      "en": "Oscelda's Featherbind",
+      "url": "https://soulframewiki.fr/armures/osceldas-featherbind",
+      "aliases": []
+    },
+    "poumon_d_airain": {
+      "label": "Poumon d'Airain",
+      "en": "Brazen Lung",
+      "url": "https://soulframewiki.fr/armures/poumon-dairain",
+      "aliases": []
+    },
+    "racines_de_tethren": {
+      "label": "Racines de Tethren",
+      "en": "Tethren's Roots",
+      "url": "https://soulframewiki.fr/armures/tethrens-roots",
+      "aliases": []
+    },
+    "robes_du_desorceleur": {
+      "label": "Robes du Désorceleur",
+      "en": "Wazzard's Robes",
+      "url": "https://soulframewiki.fr/armures/robes-du-desorceleur",
+      "aliases": []
+    },
+    "ruban_de_duelo": {
+      "label": "Ruban de Duelo",
+      "en": "Duelo Ribbon",
+      "url": "https://soulframewiki.fr/armures/ruban-de-duelo",
+      "aliases": []
+    },
+    "sarrau_des_brumes_de_primevere": {
+      "label": "Sarrau des Brumes de Primevère",
+      "en": "Thawtide Thermals",
+      "url": "https://soulframewiki.fr/armures/sarrau-des-brumes-de-primevere",
+      "aliases": []
+    },
+    "solerets_du_roi_a_l_obole": {
+      "label": "Solerets du Roi à l’Obole",
+      "en": "Mendicant King’s Sabaton",
+      "url": "https://soulframewiki.fr/armures/bloody-sabatons",
+      "aliases": []
+    },
+    "tablier_de_chantacier": {
+      "label": "Tablier de Chantacier",
+      "en": "Steelsinger’s Stithywicks",
+      "url": "https://soulframewiki.fr/armures/stithywicks",
+      "aliases": []
+    },
+    "tiges_de_sirin": {
+      "label": "Tiges de Sirin",
+      "en": "Sirin's Stalks",
+      "url": "https://soulframewiki.fr/armures/sirins-stalks",
+      "aliases": []
+    },
+    "tunique_de_tethren": {
+      "label": "Tunique de Tethren",
+      "en": "Tethren's Tunic",
+      "url": "https://soulframewiki.fr/armures/tethrens-tunic",
+      "aliases": []
+    },
+    "visage_des_tempetes": {
+      "label": "Visage  des Tempêtes",
+      "en": "Tempest Visard",
+      "url": "https://soulframewiki.fr/armures/tempest-visard",
+      "aliases": []
+    },
+    "visage_du_feu_oublie": {
+      "label": "Visage du Feu-Oublié",
+      "en": "Forgetfire Visard",
+      "url": "https://soulframewiki.fr/armures/signet-visard",
+      "aliases": []
+    },
+    "voile_du_regent": {
+      "label": "Voile du Régent",
+      "en": "Regent’s Veil",
+      "url": "https://soulframewiki.fr/armures/regents-veil",
+      "aliases": []
+    },
+    "bec_de_pie_grieche": {
+      "label": "Bec de Pie-Grièche",
+      "en": "Shrike’s Lockmaw",
+      "url": "https://soulframewiki.fr/armures/bec-de-pie-grieche",
+      "aliases": []
+    },
+    "beffroi_de_l_inquisitrice": {
+      "label": "Beffroi de l’Inquisitrice",
+      "en": "Inquisitor’s Belfry",
+      "url": "https://soulframewiki.fr/armures/beffroi-de-linquisitrice",
+      "aliases": []
+    },
+    "carapace_de_ceptet": {
+      "label": "Carapace de Ceptet",
+      "en": "Ceptet’s Carapace",
+      "url": "https://soulframewiki.fr/armures/carapace-de-ceptet",
+      "aliases": []
+    },
+    "chaire_de_l_inquisitrice": {
+      "label": "Chaire de l’Inquisitrice",
+      "en": "Inquisitor’s Pulpit",
+      "url": "https://soulframewiki.fr/armures/chaire-de-linquisitrice",
+      "aliases": []
+    },
+    "cles_de_pie_grieche": {
+      "label": "Clés de Pie-Grièche",
+      "en": "Shrike’s Clavisons",
+      "url": "https://soulframewiki.fr/armures/cles-de-pie-grieche",
+      "aliases": []
+    },
+    "cothumes_de_la_manche": {
+      "label": "Cothumes de la Manche",
+      "en": "Buskins of The Sleeve",
+      "url": "https://soulframewiki.fr/armures/cothumes-de-la-manche",
+      "aliases": []
+    },
+    "couronne_de_la_manche": {
+      "label": "Couronne de la Manche",
+      "en": "Coronal of The Sleeve",
+      "url": "https://soulframewiki.fr/armures/couronne-de-la-manche",
+      "aliases": []
+    },
+    "gilet_de_la_manche": {
+      "label": "Gilet de la Manche",
+      "en": "Gilet of The Sleeve",
+      "url": "https://soulframewiki.fr/armures/gilet-de-la-manche",
+      "aliases": []
+    },
+    "guetres_de_ceptet": {
+      "label": "Guêtres de Ceptet",
+      "en": "Ceptet’s Gaiters",
+      "url": "https://soulframewiki.fr/armures/guetres-de-ceptet",
+      "aliases": []
+    },
+    "heaume_de_ceptet": {
+      "label": "Heaume de Ceptet",
+      "en": "Ceptet’s Skullcap",
+      "url": "https://soulframewiki.fr/armures/heaume-de-ceptet",
+      "aliases": []
+    },
+    "masque_de_veltruska": {
+      "label": "Masque de Veltruska",
+      "en": "Veltruska Mask",
+      "url": "https://soulframewiki.fr/armures/masque-de-veltruska",
+      "aliases": []
+    },
+    "masse_de_l_inquisitrice": {
+      "label": "Masse de l’Inquisitrice",
+      "en": "Inquisitor’s Birze",
+      "url": "https://soulframewiki.fr/armures/masse-de-linquisitrice",
+      "aliases": []
+    },
+    "serres_de_pie_grieche": {
+      "label": "Serres de Pie-Grièche",
+      "en": "Shrike’s Claes",
+      "url": "https://soulframewiki.fr/armures/serres-de-pie-grieche",
+      "aliases": []
+    }
+  },
+  "couleurs": {
+    "brume_de_sirin": {
+      "label": "Brume de Sirin",
+      "en": "Sirin's Shroud",
+      "url": "https://soulframewiki.fr/couleurs/brume-de-sirin",
+      "aliases": []
+    },
+    "epona": {
+      "label": "Epona",
+      "en": "Epona",
+      "url": "https://soulframewiki.fr/couleurs/epona",
+      "aliases": []
+    },
+    "espoir_d_oscelda": {
+      "label": "Espoir d’Oscelda",
+      "en": "Oscelda's Hope",
+      "url": "https://soulframewiki.fr/couleurs/espoir-doscelda",
+      "aliases": []
+    },
+    "furie_de_tethren": {
+      "label": "Furie de Tethren",
+      "en": "Tethren's Blaze",
+      "url": "https://soulframewiki.fr/couleurs/furie-de-tethren",
+      "aliases": []
+    },
+    "les_memoires_de_verminia": {
+      "label": "Les Mémoires de Verminia",
+      "en": "Verminia’s Memoir",
+      "url": "https://soulframewiki.fr/couleurs/verminias-memoir",
+      "aliases": []
+    },
+    "les_yeux_de_la_mere": {
+      "label": "Les Yeux de la Mère",
+      "en": "Mother's Eyes",
+      "url": "https://soulframewiki.fr/couleurs/les-yeux-de-la-mere",
+      "aliases": []
+    },
+    "les_yeux_de_la_mere_ii": {
+      "label": "Les Yeux de la Mère II",
+      "en": "Mother's Eyes II",
+      "url": "https://soulframewiki.fr/couleurs/les-yeux-de-la-mere-2",
+      "aliases": []
+    },
+    "locks_de_larken": {
+      "label": "Locks de Larken",
+      "en": "Larken Locks",
+      "url": "https://soulframewiki.fr/couleurs/locks-de-larken",
+      "aliases": []
+    },
+    "nuances_d_argile": {
+      "label": "Nuances d'argile",
+      "en": "Shades of Clay",
+      "url": "https://soulframewiki.fr/couleurs/nuances-dargile",
+      "aliases": []
+    },
+    "rhiannon": {
+      "label": "Rhiannon",
+      "en": "Rhiannon",
+      "url": "https://soulframewiki.fr/couleurs/rhiannon",
+      "aliases": []
+    },
+    "sable_et_neige": {
+      "label": "Sable et neige",
+      "en": "Sand and Snow",
+      "url": "https://soulframewiki.fr/couleurs/sable-et-neige",
+      "aliases": []
+    },
+    "saumures_de_verminia": {
+      "label": "Saumures de Verminia",
+      "en": "Verminia's Brines",
+      "url": "https://soulframewiki.fr/couleurs/saumures-de-verminia",
+      "aliases": []
+    },
+    "sigil": {
+      "label": "Sigil",
+      "en": "Sigil",
+      "url": "https://soulframewiki.fr/couleurs/sigil",
+      "aliases": []
+    },
+    "teintures_royales_d_alora": {
+      "label": "Teintures Royales d’Alora",
+      "en": "Alora's Royal Dyes",
+      "url": "https://soulframewiki.fr/couleurs/teintures-royales-dalora",
+      "aliases": []
+    },
+    "tresses_du_crepuscule": {
+      "label": "Tresses du crépuscule",
+      "en": "Twilight Tresses",
+      "url": "https://soulframewiki.fr/couleurs/tresses-du-crepuscule",
+      "aliases": []
+    }
+  },
+  "pactes": {
+    "bromius": {
+      "label": "Bromius",
+      "en": "Bromius",
+      "url": "https://soulframewiki.fr/pactes/bromius",
+      "aliases": []
+    },
+    "duelo": {
+      "label": "Duelo",
+      "en": "Duelo",
+      "url": "https://soulframewiki.fr/pactes/duelo",
+      "aliases": []
+    },
+    "garren_rood": {
+      "label": "Garren Rood",
+      "en": "Garren Rood",
+      "url": "https://soulframewiki.fr/pactes/garren-rood",
+      "aliases": []
+    },
+    "main_de_mora": {
+      "label": "Main de Mora",
+      "en": "Mora’s Hand",
+      "url": "https://soulframewiki.fr/pactes/moras-hand",
+      "aliases": []
+    },
+    "orengall": {
+      "label": "Orengall",
+      "en": "Orengall",
+      "url": "https://soulframewiki.fr/pactes/orengall",
+      "aliases": []
+    },
+    "oscelda": {
+      "label": "Oscelda",
+      "en": "Oscelda",
+      "url": "https://soulframewiki.fr/pactes/oscelda",
+      "aliases": []
+    },
+    "oscelda_des_sylves": {
+      "label": "Oscelda des Sylves",
+      "en": "Wyld Oscelda",
+      "url": "https://soulframewiki.fr/pactes/oscelda-des-sylves",
+      "aliases": []
+    },
+    "sirin": {
+      "label": "Sirin",
+      "en": "Sirin",
+      "url": "https://soulframewiki.fr/pactes/sirin",
+      "aliases": []
+    },
+    "sirin_des_sylves": {
+      "label": "Sirin des Sylves",
+      "en": "Wyld Sirin",
+      "url": "https://soulframewiki.fr/pactes/sirin-des-sylves",
+      "aliases": []
+    },
+    "tempete_de_l_ode": {
+      "label": "Tempête de l’Ode",
+      "en": "Ode Tempest",
+      "url": "https://soulframewiki.fr/pactes/ode-tempest",
+      "aliases": []
+    },
+    "tethren": {
+      "label": "Tethren",
+      "en": "Tethren",
+      "url": "https://soulframewiki.fr/pactes/tethren",
+      "aliases": []
+    },
+    "tethren_des_sylves": {
+      "label": "Tethren des Sylves",
+      "en": "Wyld Tethren",
+      "url": "https://soulframewiki.fr/pactes/tethren-des-sylves",
+      "aliases": []
+    },
+    "pie_grieche_de_l_ode": {
+      "label": "Pie-Grièche de l’Ode",
+      "en": "Ode Shrike",
+      "url": "https://soulframewiki.fr/pactes/pie-grieche-de-ode",
+      "aliases": []
+    },
+    "vadagar": {
+      "label": "Vadagar",
+      "en": "Vadagar",
+      "url": "",
+      "aliases": []
+    }
+  },
+  "filigranes": {
+    "eldore": {
+      "label": "Eldore",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "feyrite": {
+      "label": "Feÿrite",
+      "en": "Feybalt",
+      "url": "https://soulframewiki.fr/filigranes/feyrite",
+      "aliases": []
+    },
+    "grey_gold": {
+      "label": "Grey Gold",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "guildor": {
+      "label": "Guildor",
+      "en": "Gildaur",
+      "url": "https://soulframewiki.fr/filigranes/guildor",
+      "aliases": []
+    },
+    "palladium": {
+      "label": "Palladium",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "sun_gold": {
+      "label": "Sun Gold",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "tribalt": {
+      "label": "Tribalt",
+      "en": "",
+      "url": "",
+      "aliases": []
+    },
+    "vif_argent": {
+      "label": "Vif-Argent",
+      "en": "Quicksilver",
+      "url": "https://soulframewiki.fr/filigranes/vif-argent",
+      "aliases": []
+    },
+    "verite": {
+      "label": "Vérite",
+      "en": "Verite",
+      "url": "https://soulframewiki.fr/filigranes/verite",
+      "aliases": []
+    }
+  },
+  "pèlerins": {
+    "bruant_des_neiges": {
+      "label": "Bruant des Neiges",
+      "en": "Snow Bunting",
+      "url": "https://soulframewiki.fr/pelerins/fauvette-tachete",
+      "aliases": []
+    },
+    "cici_nocturne": {
+      "label": "Cici Nocturne",
+      "en": "Midnight Grassquit",
+      "url": "https://soulframewiki.fr/pelerins/pie-bryl",
+      "aliases": []
+    },
+    "dame_cardinal": {
+      "label": "Dame Cardinal",
+      "en": "Lady Cardinal",
+      "url": "https://soulframewiki.fr/pelerins/dame-cardinal",
+      "aliases": []
+    },
+    "flip_flap": {
+      "label": "Flip-Flap",
+      "en": "Floppet",
+      "url": "https://soulframewiki.fr/pelerins/flip-flap",
+      "aliases": []
+    },
+    "marragon": {
+      "label": "Marragon",
+      "en": "Sparragon",
+      "url": "https://soulframewiki.fr/pelerins/marragon",
+      "aliases": []
+    },
+    "moineau_de_grand_pa": {
+      "label": "Moineau de Grand-Pa",
+      "en": "Grandfa's Sparrow",
+      "url": "https://soulframewiki.fr/pelerins/moineau-de-grand-pa",
+      "aliases": []
+    },
+    "sire_cardinal": {
+      "label": "Sire Cardinal",
+      "en": "Lord Cardinal",
+      "url": "https://soulframewiki.fr/pelerins/sire-cardinal",
+      "aliases": []
+    },
+    "tohi_tachete": {
+      "label": "Tohi Tacheté",
+      "en": "Spotted Towhee",
+      "url": "https://soulframewiki.fr/pelerins/pinson-carlate",
+      "aliases": []
+    },
+    "wanderquill": {
+      "label": "Wanderquill",
+      "en": "Wanderquill",
+      "url": "https://soulframewiki.fr/pelerins/wanderquill",
+      "aliases": []
+    }
+  },
+  "runes": {
+    "abattage": {
+      "label": "Abattage",
+      "en": "Treefell",
+      "url": "https://soulframewiki.fr/runes/abbatage",
+      "aliases": []
+    },
+    "ambrefeu": {
+      "label": "Ambrefeu",
+      "en": "Emberaught",
+      "url": "https://soulframewiki.fr/runes/ambrefeu",
+      "aliases": []
+    },
+    "arch_tempete": {
+      "label": "Arch-Tempête",
+      "en": "Archstorm",
+      "url": "https://soulframewiki.fr/runes/archstorm",
+      "aliases": []
+    },
+    "chaine_d_eclairs": {
+      "label": "Chaîne d’Éclairs",
+      "en": "Splitbolt",
+      "url": "https://soulframewiki.fr/runes/chaine-eclairs",
+      "aliases": []
+    },
+    "craque_cendres": {
+      "label": "Craque-Cendres",
+      "en": "Forburn",
+      "url": "https://soulframewiki.fr/runes/craque-cendres",
+      "aliases": []
+    },
+    "cendrifuge": {
+      "label": "Cendrifuge",
+      "en": "Cindermore",
+      "url": "https://soulframewiki.fr/runes/flamelle",
+      "aliases": []
+    },
+    "flamelle": {
+      "label": "Flamelle",
+      "en": "Everflame",
+      "url": "https://soulframewiki.fr/runes/everflame",
+      "aliases": []
+    },
+    "hurlevent": {
+      "label": "Hurlevent",
+      "en": "Hurlwind",
+      "url": "https://soulframewiki.fr/runes/hurlevent",
+      "aliases": []
+    },
+    "la_boufee": {
+      "label": "La Boufée",
+      "en": "The Hollowing",
+      "url": "https://soulframewiki.fr/runes/la-bouffe",
+      "aliases": []
+    },
+    "la_pierre_brillante": {
+      "label": "La Pierre Brillante",
+      "en": "The Durglint",
+      "url": "https://soulframewiki.fr/runes/la-pierre-brillante",
+      "aliases": []
+    },
+    "la_tempete_de_brouillard": {
+      "label": "La Tempête de Brouillard",
+      "en": "The Mistgale",
+      "url": "https://soulframewiki.fr/runes/la-tempte-de-brouillard",
+      "aliases": []
+    },
+    "la_volute_de_fumee": {
+      "label": "La Volute de Fumée",
+      "en": "The Flitsmoke",
+      "url": "https://soulframewiki.fr/runes/la-volute-de-fume",
+      "aliases": []
+    },
+    "le_torrent": {
+      "label": "Le Torrent",
+      "en": "The Torrent",
+      "url": "https://soulframewiki.fr/runes/le-torrent",
+      "aliases": []
+    },
+    "picktrix": {
+      "label": "Picktrix",
+      "en": "Picktrix",
+      "url": "https://soulframewiki.fr/runes/picktrix",
+      "aliases": []
+    },
+    "souffle_d_alca": {
+      "label": "Souffle d’Alca",
+      "en": "Alca’s Breath",
+      "url": "https://soulframewiki.fr/runes/alcas-breath",
+      "aliases": []
+    },
+    "torcheternelle": {
+      "label": "Torchéternelle",
+      "en": "Torcheternal",
+      "url": "https://soulframewiki.fr/runes/torchternelle",
+      "aliases": []
+    },
+    "apaisement": {
+      "label": "Apaisement",
+      "en": "Soothesayer",
+      "url": "https://soulframewiki.fr/runes/apaisement",
+      "aliases": []
+    },
+    "bond_rubicond": {
+      "label": "Bond Rubicond",
+      "en": "Crimsonfell",
+      "url": "https://soulframewiki.fr/runes/bond-rubicond",
+      "aliases": []
+    },
+    "carrionite": {
+      "label": "Carrionite",
+      "en": "Carrionite",
+      "url": "https://soulframewiki.fr/runes/carrionite",
+      "aliases": []
+    },
+    "cure_lunaire": {
+      "label": "Cure Lunaire",
+      "en": "Lunarcure",
+      "url": "https://soulframewiki.fr/runes/cure-lunaire",
+      "aliases": []
+    },
+    "fauche_ancestrale": {
+      "label": "Fauche Ancestrale",
+      "en": "Reaproot",
+      "url": "https://soulframewiki.fr/runes/fauche-ancestrale",
+      "aliases": []
+    },
+    "flamme_astrale": {
+      "label": "Flamme Astrale",
+      "en": "Astralflare",
+      "url": "https://soulframewiki.fr/runes/flamme-astrale",
+      "aliases": []
+    },
+    "flanc_du_fort": {
+      "label": "Flanc du Fort",
+      "en": "Fortflank",
+      "url": "https://soulframewiki.fr/runes/flanc-du-fort",
+      "aliases": []
+    },
+    "lance_braise": {
+      "label": "Lance-Braise",
+      "en": "Flamepitch",
+      "url": "https://soulframewiki.fr/runes/lance-braise",
+      "aliases": []
+    },
+    "mortrite": {
+      "label": "Mortrite",
+      "en": "Mortrite",
+      "url": "https://soulframewiki.fr/runes/mortrite",
+      "aliases": []
+    },
+    "ouragan": {
+      "label": "Ouragan",
+      "en": "Smeltsquall",
+      "url": "https://soulframewiki.fr/runes/ouragan",
+      "aliases": []
+    },
+    "parasoin": {
+      "label": "Parasoin",
+      "en": "Parapelt",
+      "url": "https://soulframewiki.fr/runes/parasoin",
+      "aliases": []
+    },
+    "picrocher": {
+      "label": "Picrocher",
+      "en": "Cragprick",
+      "url": "https://soulframewiki.fr/runes/pricrocher",
+      "aliases": []
+    },
+    "projection_pourpre": {
+      "label": "Projection Pourpre",
+      "en": "Scarletsing",
+      "url": "https://soulframewiki.fr/runes/projection-pourpre",
+      "aliases": []
+    },
+    "rupture": {
+      "label": "Rupture",
+      "en": "Dissever",
+      "url": "https://soulframewiki.fr/runes/rupture",
+      "aliases": []
+    },
+    "vexipare": {
+      "label": "Vexipare",
+      "en": "Vexipare",
+      "url": "https://soulframewiki.fr/runes/vexipare",
+      "aliases": []
+    },
+    "ecorce_protectrice": {
+      "label": "Écorce Protectrice",
+      "en": "Wardwark",
+      "url": "https://soulframewiki.fr/runes/ecorce-protectrice",
+      "aliases": []
+    }
+  },
+  "talismans": {
+    "bourgeon_de_vertepousse": {
+      "label": "Bourgeon de Vertepousse",
+      "en": "Sproutfolk Shoot",
+      "url": "https://soulframewiki.fr/talismans/bourgeon-de-vertepousse",
+      "aliases": []
+    },
+    "broche_de_la_rose": {
+      "label": "Broche de la Rose",
+      "en": "Rose’s Bodkin Totem",
+      "url": "https://soulframewiki.fr/talismans/roses-bodkin-totem",
+      "aliases": []
+    },
+    "broche_florale": {
+      "label": "Broche Florale",
+      "en": "Bloomin' Bodkin",
+      "url": "https://soulframewiki.fr/talismans/broche-floral",
+      "aliases": []
+    },
+    "charme_de_cardinal": {
+      "label": "Charme de Cardinal",
+      "en": "Cardinal Charm",
+      "url": "https://soulframewiki.fr/talismans/charme-de-cardinal",
+      "aliases": []
+    },
+    "cloche_de_synod": {
+      "label": "Cloche De Synod",
+      "en": "Synod's Bell Jar",
+      "url": "https://soulframewiki.fr/talismans/synods-bell-jar",
+      "aliases": []
+    },
+    "coeur_des_bois": {
+      "label": "Cœur des Bois",
+      "en": "Wylding’s Heart",
+      "url": "https://soulframewiki.fr/talismans/coeur-des-bois",
+      "aliases": []
+    },
+    "crane_sinistre": {
+      "label": "Crâne Sinistre",
+      "en": "Direskull",
+      "url": "https://soulframewiki.fr/talismans/direskull",
+      "aliases": []
+    },
+    "croc_d_orengall": {
+      "label": "Croc d’Orengall",
+      "en": "Orengall's Fang",
+      "url": "https://soulframewiki.fr/talismans/orengalls-fang",
+      "aliases": []
+    },
+    "garde_des_bois": {
+      "label": "Garde des Bois",
+      "en": "Wylding’s Hilt",
+      "url": "https://soulframewiki.fr/talismans/garde-des-bois",
+      "aliases": []
+    },
+    "graine_de_vertepousse": {
+      "label": "Graine de Vertepousse",
+      "en": "Sproutfolk Seed Totem",
+      "url": "https://soulframewiki.fr/talismans/sproutfolk-seed-totem",
+      "aliases": []
+    },
+    "honneur_du_prelude": {
+      "label": "Honneur du Prélude",
+      "en": "Prelude Honor",
+      "url": "https://soulframewiki.fr/talismans/prelude-honor",
+      "aliases": []
+    },
+    "larme_de_mora": {
+      "label": "Larme de Mora",
+      "en": "Molten Mora",
+      "url": "https://soulframewiki.fr/talismans/larme-de-mora",
+      "aliases": []
+    },
+    "le_cogah_creutair": {
+      "label": "Le Cogah Creutair",
+      "en": "The Cogah Creutair",
+      "url": "https://soulframewiki.fr/talismans/le-cogah-creutair",
+      "aliases": []
+    },
+    "le_cogah_grod": {
+      "label": "Le Cogah Grod",
+      "en": "The Cogah Grod",
+      "url": "https://soulframewiki.fr/talismans/le-cogah-grod",
+      "aliases": []
+    },
+    "le_cogah_lorcaan": {
+      "label": "Le Cogah Lorcaan",
+      "en": "The Cogah Lorcaan",
+      "url": "https://soulframewiki.fr/talismans/le-cogah-lorcaan",
+      "aliases": []
+    },
+    "medaillon_de_mora": {
+      "label": "Médaillon de Mora",
+      "en": "Medallion of Mora",
+      "url": "https://soulframewiki.fr/talismans/medallion-of-mora",
+      "aliases": []
+    },
+    "pendentif_de_l_aube": {
+      "label": "Pendentif de l’Aube",
+      "en": "Dawn Pendant",
+      "url": "https://soulframewiki.fr/talismans/dawn-pendant",
+      "aliases": []
+    },
+    "pendentif_de_minuit": {
+      "label": "Pendentif de Minuit",
+      "en": "Midnight Pendant",
+      "url": "https://soulframewiki.fr/talismans/midnight-pendant",
+      "aliases": []
+    },
+    "pendentif_du_crepuscule": {
+      "label": "Pendentif du Crépuscule",
+      "en": "Dusk Pendant",
+      "url": "https://soulframewiki.fr/talismans/dusk-pendant",
+      "aliases": []
+    },
+    "phylactere_du_parangon": {
+      "label": "Phylactère du Parangon",
+      "en": "Paragon Periape",
+      "url": "https://soulframewiki.fr/talismans/phylactere-du-paragon",
+      "aliases": []
+    },
+    "soupir_des_bois": {
+      "label": "Soupir des Bois",
+      "en": "Wylding’s Hush",
+      "url": "https://soulframewiki.fr/talismans/soupir-des-bois",
+      "aliases": []
+    },
+    "souhait_du_desorceleur": {
+      "label": "Souhait du Désorceleur",
+      "en": "Wazzard's Wish",
+      "url": "https://soulframewiki.fr/talismans/wazzards-wish",
+      "aliases": []
+    },
+    "talisman_trinitaire": {
+      "label": "Talisman Trinitaire",
+      "en": "Triune Talisman",
+      "url": "https://soulframewiki.fr/talismans/triune-talisman",
+      "aliases": []
+    },
+    "harpe_de_faidh": {
+      "label": "Harpe de Faidh",
+      "en": "Faidh's Harpling",
+      "url": "https://soulframewiki.fr/talismans/harpe-de-faidh",
+      "aliases": []
+    },
+    "incubu": {
+      "label": "Incubu",
+      "en": "Incubu",
+      "url": "https://soulframewiki.fr/talismans/incubu",
+      "aliases": []
+    },
+    "larmes_d_alora": {
+      "label": "Larmes d’Alora",
+      "en": "Tears of Alora",
+      "url": "https://soulframewiki.fr/talismans/larmes-dalora",
+      "aliases": []
+    },
+    "mailles_de_coeur_sylvestre": {
+      "label": "Mailles de Cœur Sylvestre",
+      "en": "Heartwood Soams",
+      "url": "https://soulframewiki.fr/talismans/mailles-de-coeur-sylvestre",
+      "aliases": []
+    },
+    "mandragore": {
+      "label": "Mandragore",
+      "en": "Mandragora",
+      "url": "https://soulframewiki.fr/talismans/mandragore",
+      "aliases": []
+    },
+    "plume_de_vie": {
+      "label": "Plume de Vie",
+      "en": "Featherfife",
+      "url": "https://soulframewiki.fr/talismans/plume-de-vie",
+      "aliases": []
+    },
+    "protection_des_feys": {
+      "label": "Protection des Feÿs",
+      "en": "Feykin Ward",
+      "url": "https://soulframewiki.fr/talismans/protection-des-feys",
+      "aliases": []
+    },
+    "selenelion": {
+      "label": "Selenelion",
+      "en": "Selenelion",
+      "url": "https://soulframewiki.fr/talismans/selenelion",
+      "aliases": []
+    },
+    "tribut_du_sang_de_la_meute": {
+      "label": "Tribut du Sang de la Meute",
+      "en": "Wolf Print",
+      "url": "https://soulframewiki.fr/talismans/tribut-du-sang-de-la-meute",
+      "aliases": []
+    }
+  },
+  "totems": {
+    "armure_de_fourrure": {
+      "label": "Armure de Fourrure",
+      "en": "Armour Coat",
+      "url": "https://soulframewiki.fr/totems/armure-de-fourrure",
+      "aliases": []
+    },
+    "barrage_de_derivation": {
+      "label": "Barrage de Dérivation",
+      "en": "Draft Dam",
+      "url": "https://soulframewiki.fr/totems/barrage-de-drivation",
+      "aliases": []
+    },
+    "cerf_chatieur": {
+      "label": "Cerf Châtieur",
+      "en": "Smiting Stag",
+      "url": "https://soulframewiki.fr/totems/cerf-chatieur",
+      "aliases": []
+    },
+    "coup_du_lapin": {
+      "label": "Coup du Lapin",
+      "en": "Hare Harms",
+      "url": "https://soulframewiki.fr/totems/coup-du-lapin",
+      "aliases": []
+    },
+    "coup_fourre": {
+      "label": "Coup Fourré",
+      "en": "Blinky Kick",
+      "url": "https://soulframewiki.fr/totems/coup-fourre",
+      "aliases": []
+    },
+    "course_voltaique": {
+      "label": "Course Voltaïque",
+      "en": "Voltaic Scurry",
+      "url": "https://soulframewiki.fr/totems/course-voltaique",
+      "aliases": []
+    },
+    "defense_intervertie": {
+      "label": "Défense Intervertie",
+      "en": "Turn Tusk",
+      "url": "https://soulframewiki.fr/totems/defense-intervertie",
+      "aliases": []
+    },
+    "explosion_de_bandicota": {
+      "label": "Explosion de Bandicota",
+      "en": "Bndicota Blast",
+      "url": "https://soulframewiki.fr/totems/explosion-de-bandicota",
+      "aliases": []
+    },
+    "fontaine_de_germes": {
+      "label": "Fontaine de Germes",
+      "en": "Sprout Spring",
+      "url": "https://soulframewiki.fr/totems/fontaine-de-germes",
+      "aliases": []
+    },
+    "glandes_curatives": {
+      "label": "Glandes Curatives",
+      "en": "Heal Preens",
+      "url": "https://soulframewiki.fr/totems/glandes-curatives",
+      "aliases": []
+    },
+    "hutte_robuste": {
+      "label": "Hutte Robuste",
+      "en": "Stocky Lodge",
+      "url": "https://soulframewiki.fr/totems/hutte-robuste",
+      "aliases": []
+    },
+    "morsure_aveuglante": {
+      "label": "Morsure Aveuglante",
+      "en": "Blinding Bite",
+      "url": "https://soulframewiki.fr/totems/morsure-aveuglante",
+      "aliases": []
+    },
+    "morsures_arcaniques": {
+      "label": "Morsures Arcaniques",
+      "en": "Arcanic Gnaws",
+      "url": "https://soulframewiki.fr/totems/morsures-arcaniques",
+      "aliases": []
+    },
+    "mulard_barbotant": {
+      "label": "Mulard Barbotant",
+      "en": "Dabble Dredge",
+      "url": "https://soulframewiki.fr/totems/mulard-barbotant",
+      "aliases": []
+    },
+    "musc_mobile": {
+      "label": "Musc Mobile",
+      "en": "Moving Musk",
+      "url": "https://soulframewiki.fr/totems/musc-mobile",
+      "aliases": []
+    },
+    "nid_noble": {
+      "label": "Nid Noble",
+      "en": "Noble Nestling",
+      "url": "https://soulframewiki.fr/totems/nid-noble",
+      "aliases": []
+    },
+    "oiseau_lointain": {
+      "label": "Oiseau Lointain",
+      "en": "Far Foul",
+      "url": "https://soulframewiki.fr/totems/oiseau-lointain",
+      "aliases": []
+    },
+    "portee_persistante": {
+      "label": "Portée Persistante",
+      "en": "Lingering Litter",
+      "url": "https://soulframewiki.fr/totems/portee-persistante",
+      "aliases": []
+    },
+    "propagation_paresseuse": {
+      "label": "Propagation Paresseuse",
+      "en": "Spreading Sploot",
+      "url": "https://soulframewiki.fr/totems/propagation-paresseuse",
+      "aliases": []
+    },
+    "protection_des_cervides": {
+      "label": "Protection des Cervidés",
+      "en": "Cervid Ward",
+      "url": "https://soulframewiki.fr/totems/protection-des-cervides",
+      "aliases": []
+    },
+    "queue_du_tonnerre": {
+      "label": "Queue du Tonnerre",
+      "en": "Thunder Tail",
+      "url": "https://soulframewiki.fr/totems/queue-du-tonnerre",
+      "aliases": []
+    },
+    "reverence_du_canard": {
+      "label": "Révérence du Canard",
+      "en": "Diving Drake",
+      "url": "https://soulframewiki.fr/totems/reverence-du-carnard",
+      "aliases": []
+    },
+    "reveil_de_la_riviere": {
+      "label": "Réveil de la Rivière",
+      "en": "Rivers Revive",
+      "url": "https://soulframewiki.fr/totems/reveil-de-la-riviere",
+      "aliases": []
+    },
+    "rosse_rosee": {
+      "label": "Rosse-Rosée",
+      "en": "Dewclawer",
+      "url": "https://soulframewiki.fr/totems/rosse-rosee",
+      "aliases": []
+    },
+    "transport_rapide": {
+      "label": "Transport Rapide",
+      "en": "Quick Drey",
+      "url": "https://soulframewiki.fr/totems/transport-rapide",
+      "aliases": []
+    },
+    "troupeau_fantome": {
+      "label": "Troupeau Fantôme",
+      "en": "Hollowed Herd",
+      "url": "https://soulframewiki.fr/totems/troupeau-fantome",
+      "aliases": []
+    }
+  }
+}
